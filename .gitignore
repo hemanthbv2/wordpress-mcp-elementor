@@ -36,3 +36,7 @@ yarn-error.log*
 next-env.d.ts
 
 supabase/.temp/
+
+# WordPress / Figma MCP credentials
+credentials.json
+*.secret

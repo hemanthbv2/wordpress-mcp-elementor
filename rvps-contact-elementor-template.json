@@ -1,0 +1,250 @@
+{
+  "version": "0.4",
+  "title": "RVPS - Contact Us",
+  "type": "page",
+  "content": [
+    {
+      "id": "00f4247",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "full_width",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "unit": "px",
+          "top": "16",
+          "right": "36",
+          "bottom": "16",
+          "left": "36",
+          "isLinked": false
+        },
+        "box_shadow_box_shadow_type": "yes",
+        "box_shadow_box_shadow": {
+          "horizontal": 0,
+          "vertical": 3,
+          "blur": 15,
+          "spread": 0,
+          "color": "rgba(0,0,0,0.06)"
+        }
+      },
+      "elements": [
+        {
+          "id": "00f4244",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 22,
+            "_inline_size": 22,
+            "_inline_size_mobile": 100,
+            "_inline_size_tablet": 30
+          },
+          "elements": [
+            {
+              "id": "00f4241",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://raw.githubusercontent.com/hemanthbv2/rvpu-assets/main/rvps/rvps-logo.png",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "left",
+                "width": {
+                  "unit": "px",
+                  "size": 240,
+                  "sizes": []
+                },
+                "width_tablet": {
+                  "unit": "px",
+                  "size": 200,
+                  "sizes": []
+                },
+                "width_mobile": {
+                  "unit": "px",
+                  "size": 170,
+                  "sizes": []
+                },
+                "link_to": "custom",
+                "link": {
+                  "url": "https://rvcollegeofengineering.in/test/?page_id=99",
+                  "is_external": false,
+                  "id": ""
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00f4245",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 68,
+            "_inline_size": 68,
+            "_inline_size_mobile": 100,
+            "_inline_size_tablet": 55
+          },
+          "elements": [
+            {
+              "id": "00f4242",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<style>\n.rvps-nav-wrap { display: flex; align-items: center; justify-content: center; gap: 28px; flex-wrap: wrap; }\n.rvps-nav-link { font-family: 'Inter', sans-serif; font-size: 15px; font-weight: 600; color: #1c1c1c; text-decoration: none; padding: 8px 12px; border-radius: 6px; transition: all 0.25s ease; position: relative; }\n.rvps-nav-link:hover { color: #f2563d; background: rgba(242, 86, 61, 0.06); }\n.rvps-nav-link.active { color: #f2563d; font-weight: 700; }\n.rvps-nav-link.active::after { content: ''; position: absolute; bottom: 0; left: 12px; right: 12px; height: 3px; background: #f2563d; border-radius: 2px; }\n.rvps-palette-dots { display: flex; gap: 5px; align-items: center; justify-content: flex-end; }\n.rvps-palette-dot { width: 14px; height: 28px; border-radius: 4px; display: inline-block; }\n@media (max-width: 900px) {\n  .rvps-nav-wrap { gap: 14px; justify-content: center; }\n  .rvps-nav-link { font-size: 13.5px; padding: 6px 8px; }\n}\n</style>\n<div class=\"rvps-nav-wrap\">\n  \n    <a href=\"https://rvcollegeofengineering.in/test/?page_id=99\" class=\"rvps-nav-link \">\n      Home\n    </a>\n  \n    <a href=\"https://rvcollegeofengineering.in/test/?page_id=100\" class=\"rvps-nav-link \">\n      About Us\n    </a>\n  \n    <a href=\"https://rvcollegeofengineering.in/test/?page_id=101\" class=\"rvps-nav-link \">\n      Academics\n    </a>\n  \n    <a href=\"https://rvcollegeofengineering.in/test/?page_id=102\" class=\"rvps-nav-link \">\n      Events\n    </a>\n  \n    <a href=\"https://rvcollegeofengineering.in/test/?page_id=103\" class=\"rvps-nav-link \">\n      Results\n    </a>\n  \n    <a href=\"https://rvcollegeofengineering.in/test/?page_id=104\" class=\"rvps-nav-link \">\n      Alumni\n    </a>\n  \n    <a href=\"https://rvcollegeofengineering.in/test/?page_id=105\" class=\"rvps-nav-link active\">\n      Contact Us\n    </a>\n  \n</div>\n"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00f4246",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 10,
+            "_inline_size": 10,
+            "_inline_size_mobile": 100,
+            "_inline_size_tablet": 15
+          },
+          "elements": [
+            {
+              "id": "00f4243",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<div class=\"rvps-palette-dots\">\n  <span class=\"rvps-palette-dot\" style=\"background: #F3B23E;\"></span>\n  <span class=\"rvps-palette-dot\" style=\"background: #52B8BB;\"></span>\n  <span class=\"rvps-palette-dot\" style=\"background: #F2563D;\"></span>\n  <span class=\"rvps-palette-dot\" style=\"background: #E6D6C5;\"></span>\n  <span class=\"rvps-palette-dot\" style=\"background: #3A3A3A;\"></span>\n</div>\n"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00f424a",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "full_width",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#f3b23e",
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "40",
+          "bottom": "50",
+          "left": "40",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "00f4249",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100
+          },
+          "elements": [
+            {
+              "id": "00f4248",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<div style=\"font-family:'Inter',sans-serif; padding: 40px 0 60px 0;\">\n  <!-- Page Title -->\n  <div style=\"margin-bottom: 40px;\">\n    <h1 style=\"font-family:'Inria Serif',Georgia,serif; font-size:62px; font-weight:700; color:#855d14; margin:0; letter-spacing:1px;\">\n      CONTACT US\n    </h1>\n  </div>\n\n  <div style=\"display:flex; flex-wrap:wrap; gap:40px; align-items:flex-start;\">\n    <!-- Left Column: 4 White Cards with Exact Icons -->\n    <div style=\"flex:1 1 380px; display:flex; flex-direction:column; gap:20px;\">\n      <!-- Card 1: Address -->\n      <div style=\"background:#ffffff; border-radius:22px; padding:22px 28px; display:flex; align-items:center; gap:22px; box-shadow:0 8px 24px rgba(0,0,0,0.06);\">\n        <img src=\"https://raw.githubusercontent.com/hemanthbv2/rvpu-assets/main/rvps/contact-icon-pin.png\" alt=\"Address Pin\" style=\"width:62px; height:62px; object-fit:contain;\" />\n        <div>\n          <h4 style=\"font-family:'Inter',sans-serif; font-size:16px; font-weight:800; color:#1c1c1c; margin:0 0 6px 0;\">\n            Address:\n          </h4>\n          <p style=\"font-size:14.5px; line-height:1.55; color:#454545; margin:0;\">\n            RV Public School,<br>\n            Opposite Lalbagh West Gate, V V Puram,<br>\n            Bangalore, Karnataka – 560004\n          </p>\n        </div>\n      </div>\n\n      <!-- Card 2: Call Us -->\n      <div style=\"background:#ffffff; border-radius:22px; padding:22px 28px; display:flex; align-items:center; gap:22px; box-shadow:0 8px 24px rgba(0,0,0,0.06);\">\n        <img src=\"https://raw.githubusercontent.com/hemanthbv2/rvpu-assets/main/rvps/contact-icon-phone.png\" alt=\"Phone\" style=\"width:62px; height:62px; object-fit:contain;\" />\n        <div>\n          <h4 style=\"font-family:'Inter',sans-serif; font-size:16px; font-weight:800; color:#1c1c1c; margin:0 0 6px 0;\">\n            Call Us:\n          </h4>\n          <p style=\"font-size:16px; font-weight:600; color:#454545; margin:0;\">\n            <a href=\"tel:+9108069757300\" style=\"color:#1c1c1c; text-decoration:none;\">+91-080-69757300</a>\n          </p>\n        </div>\n      </div>\n\n      <!-- Card 3: Email -->\n      <div style=\"background:#ffffff; border-radius:22px; padding:22px 28px; display:flex; align-items:center; gap:22px; box-shadow:0 8px 24px rgba(0,0,0,0.06);\">\n        <img src=\"https://raw.githubusercontent.com/hemanthbv2/rvpu-assets/main/rvps/contact-icon-email.png\" alt=\"Email\" style=\"width:62px; height:62px; object-fit:contain;\" />\n        <div>\n          <h4 style=\"font-family:'Inter',sans-serif; font-size:16px; font-weight:800; color:#1c1c1c; margin:0 0 6px 0;\">\n            Email:\n          </h4>\n          <p style=\"font-size:15px; font-weight:600; color:#454545; margin:0;\">\n            <a href=\"mailto:rvps@rvei.edu.in\" style=\"color:#1c1c1c; text-decoration:none;\">rvps@rvei.edu.in</a>\n          </p>\n        </div>\n      </div>\n\n      <!-- Card 4: Office Hours -->\n      <div style=\"background:#ffffff; border-radius:22px; padding:22px 28px; display:flex; align-items:center; gap:22px; box-shadow:0 8px 24px rgba(0,0,0,0.06);\">\n        <img src=\"https://raw.githubusercontent.com/hemanthbv2/rvpu-assets/main/rvps/contact-icon-clock.png\" alt=\"Clock\" style=\"width:62px; height:62px; object-fit:contain;\" />\n        <div>\n          <h4 style=\"font-family:'Inter',sans-serif; font-size:16px; font-weight:800; color:#1c1c1c; margin:0 0 6px 0;\">\n            Office Hours:\n          </h4>\n          <p style=\"font-size:14.5px; line-height:1.55; color:#454545; margin:0;\">\n            Monday to Friday: 8.45 AM – 4.30 PM<br>\n            Saturdays: 10.30 AM – 1.00 PM\n          </p>\n        </div>\n      </div>\n    </div>\n\n    <!-- Right Column: White Feedback / Inquiry Form Card -->\n    <div style=\"flex:1.4 1 480px; background:#ffffff; border-radius:28px; padding:45px 40px; box-shadow:0 15px 40px rgba(0,0,0,0.1);\">\n      <p style=\"font-family:'Inter',sans-serif; font-size:16.5px; font-weight:600; color:#1c1c1c; margin:0 0 25px 0;\">\n        For any feedback or queries, get in touch with us. We will get back to you shortly!\n      </p>\n\n      <form onsubmit=\"event.preventDefault(); alert('Thank you for contacting RV Public School! Our team will get back to you shortly.');\">\n        <div style=\"margin-bottom:18px;\">\n          <input type=\"text\" required placeholder=\"Name\" style=\"width:100%; background:#e8dacb; border:none; border-radius:10px; padding:15px 20px; font-size:15px; color:#1c1c1c; outline:none; box-sizing:border-box;\" />\n        </div>\n\n        <div style=\"margin-bottom:18px;\">\n          <input type=\"email\" required placeholder=\"Email ID\" style=\"width:100%; background:#e8dacb; border:none; border-radius:10px; padding:15px 20px; font-size:15px; color:#1c1c1c; outline:none; box-sizing:border-box;\" />\n        </div>\n\n        <div style=\"margin-bottom:18px;\">\n          <input type=\"text\" required placeholder=\"Subject\" style=\"width:100%; background:#e8dacb; border:none; border-radius:10px; padding:15px 20px; font-size:15px; color:#1c1c1c; outline:none; box-sizing:border-box;\" />\n        </div>\n\n        <div style=\"margin-bottom:28px;\">\n          <textarea rows=\"5\" placeholder=\"Message\" style=\"width:100%; background:#e8dacb; border:none; border-radius:10px; padding:15px 20px; font-size:15px; color:#1c1c1c; outline:none; resize:vertical; box-sizing:border-box;\"></textarea>\n        </div>\n\n        <div>\n          <button type=\"submit\" style=\"display:inline-flex; align-items:center; gap:8px; background:#f2563d; color:#ffffff; font-family:'Inter',sans-serif; font-size:16px; font-weight:700; border:none; padding:15px 38px; border-radius:35px; cursor:pointer; box-shadow:0 6px 20px rgba(242,86,61,0.35); transition:background 0.2s ease;\">\n            <span>Apply Now</span>\n            <span>➔</span>\n          </button>\n        </div>\n      </form>\n    </div>\n  </div>\n</div>\n"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00f424d",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "full_width",
+        "gap": "no",
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "00f424c",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100
+          },
+          "elements": [
+            {
+              "id": "00f424b",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<div style=\"width:100%; line-height:0; overflow:hidden;\">\n  <a href=\"https://maps.google.com/?q=RV+Public+School+Lalbagh+West+Gate+VV+Puram+Bengaluru\" target=\"_blank\" style=\"display:block;\">\n    <img src=\"https://raw.githubusercontent.com/hemanthbv2/rvpu-assets/main/rvps/contact-map.png\" alt=\"RV Public School Campus Map VV Puram Lalbagh\" style=\"width:100%; max-height:480px; object-fit:cover; display:block;\" />\n  </a>\n</div>\n"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00f4250",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "full_width",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#3a3a3a",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "00f424f",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": 100
+          },
+          "elements": [
+            {
+              "id": "00f424e",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<style>\n.rvps-footer { font-family: 'Inter', sans-serif; color: #ffffff; padding: 60px 40px 25px 40px; background: #3a3a3a; }\n.rvps-footer h3 { font-family: 'Inria Serif', Georgia, serif; font-size: 26px; color: #ffffff; margin-bottom: 22px; font-weight: 700; position: relative; padding-bottom: 8px; }\n.rvps-footer h3::after { content: ''; position: absolute; bottom: 0; left: 0; width: 48px; height: 3px; background: #f3b23e; border-radius: 2px; }\n.rvps-footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1.2fr; gap: 40px; }\n.rvps-footer p { font-size: 14.5px; line-height: 1.7; color: #e0e0e0; margin: 0 0 12px 0; }\n.rvps-footer a { color: #f3b23e; text-decoration: none; transition: color 0.2s; }\n.rvps-footer a:hover { color: #ffffff; text-decoration: underline; }\n.rvps-footer-links { list-style: none; padding: 0; margin: 0; }\n.rvps-footer-links li { margin-bottom: 10px; font-size: 14.5px; }\n.rvps-footer-links a { color: #d5d5d5; }\n.rvps-footer-links a:hover { color: #f3b23e; padding-left: 4px; }\n.rvps-footer-bottom { border-top: 1px solid rgba(255,255,255,0.15); margin-top: 45px; padding-top: 22px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; font-size: 13.5px; color: #a8a8a8; }\n@media (max-width: 900px) {\n  .rvps-footer-grid { grid-template-columns: 1fr 1fr; }\n}\n@media (max-width: 600px) {\n  .rvps-footer-grid { grid-template-columns: 1fr; gap: 28px; }\n  .rvps-footer { padding: 40px 20px 20px 20px; }\n  .rvps-footer-bottom { flex-direction: column; text-align: center; gap: 10px; }\n}\n</style>\n<footer class=\"rvps-footer\">\n  <div class=\"rvps-footer-grid\">\n    <div>\n      <img src=\"https://raw.githubusercontent.com/hemanthbv2/rvpu-assets/main/rvps/rvps-logo.png\" alt=\"RV Public School\" style=\"max-width: 210px; margin-bottom: 18px; filter: brightness(0) invert(1);\" />\n      <p style=\"font-weight: 600; color: #ffffff; font-size: 15px;\">RV Public School</p>\n      <p>Rashtreeya Sikshana Samithi Trust (RSST)<br>#45/1, 22nd Cross, 3rd Block, Jayanagar,<br>Bengaluru – 560 011, Karnataka, India</p>\n    </div>\n    <div>\n      <h3>Quick Links</h3>\n      <ul class=\"rvps-footer-links\">\n        <li><a href=\"https://rvcollegeofengineering.in/test/?page_id=99\">Home</a></li>\n        <li><a href=\"https://rvcollegeofengineering.in/test/?page_id=100\">About Us</a></li>\n        <li><a href=\"https://rvcollegeofengineering.in/test/?page_id=101\">Academics</a></li>\n        <li><a href=\"https://rvcollegeofengineering.in/test/?page_id=102\">Events</a></li>\n        <li><a href=\"https://rvcollegeofengineering.in/test/?page_id=103\">Results</a></li>\n        <li><a href=\"https://rvcollegeofengineering.in/test/?page_id=104\">Alumni</a></li>\n        <li><a href=\"https://rvcollegeofengineering.in/test/?page_id=105\">Contact Us</a></li>\n      </ul>\n    </div>\n    <div>\n      <h3>Contact Us</h3>\n      <p><strong>Phone:</strong><br><a href=\"tel:+918069018952\">+91-80-69018952</a> / <a href=\"tel:+918069018953\">53</a></p>\n      <p><strong>Email:</strong><br><a href=\"mailto:rvils@rvei.edu.in\">rvils@rvei.edu.in</a></p>\n      <p><strong>Office Hours:</strong><br>Mon – Sat: 8:30 AM – 4:00 PM</p>\n    </div>\n    <div>\n      <h3>Accreditation</h3>\n      <p>Affiliated to Council for the Indian School Certificate Examinations (CISCE), New Delhi</p>\n      <p>School Code: <strong>KA083</strong></p>\n      <p style=\"margin-top: 15px; color: #f3b23e; font-weight: 600;\">Inspiring Excellence Since 1940</p>\n    </div>\n  </div>\n  <div class=\"rvps-footer-bottom\">\n    <span>© 2026 Rashtreeya Sikshana Samithi Trust (RSST). All rights reserved.</span>\n    <span>Department of Alumni Affairs & Communication</span>\n  </div>\n</footer>\n"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
