@@ -2337,307 +2337,58 @@
       },
       "elements": [
         {
-          "id": "03d0956",
+          "id": "so_res_col_1",
           "elType": "column",
-          "isInner": false,
           "settings": {
-            "_column_size": 100,
-            "_inline_size": 100,
-            "align": "center"
+            "_column_size": 100
           },
           "elements": [
             {
-              "id": "03d094d",
+              "id": "so_res_heading",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
-                "title": "RESULTS<span class=\"south-sr-only\"> Niharika Ramesh 597/600 French/Phy/Maths/CS – 100</span>",
-                "header_size": "h2",
+                "title": "Results",
                 "align": "center",
+                "header_size": "h2",
                 "title_color": "#252525",
                 "typography_typography": "custom",
                 "typography_font_family": "Georgia",
                 "typography_font_size": {
-                  "unit": "em",
-                  "size": 2.75,
-                  "sizes": []
+                  "unit": "px",
+                  "size": 50
                 },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 2,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 1.65,
-                  "sizes": []
-                },
-                "typography_font_weight": "700",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1.15,
-                  "sizes": []
-                },
-                "_margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0.85",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "_margin_mobile": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0.65",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "css_classes": "south-results-heading",
-                "_css_classes": "south-results-heading"
-              },
-              "elements": []
+                "typography_font_weight": "700"
+              }
             },
             {
-              "id": "03d0954",
-              "elType": "section",
-              "isInner": true,
+              "id": "so_res_carousel_html",
+              "elType": "widget",
+              "widgetType": "html",
               "settings": {
-                "layout": "full_width",
-                "gap": "no",
-                "content_position": "middle",
-                "margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1.35",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "margin_mobile": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "css_classes": "south-results-slider-row"
-              },
-              "elements": [
-                {
-                  "id": "03d094f",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 8,
-                    "_inline_size": 8,
-                    "_inline_size_tablet": 10,
-                    "_inline_size_mobile": 14,
-                    "sizeTablet": 10,
-                    "sizeMobile": 14,
-                    "content_position": "center",
-                    "align": "left",
-                    "css_classes": "south-slider-arrow-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "03d094e",
-                      "elType": "widget",
-                      "widgetType": "image",
-                      "settings": {
-                        "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_arrow_left.png",
-                          "id": 337
-                        },
-                        "image_size": "full",
-                        "align": "left",
-                        "css_classes": "south-arrow-btn south-results-prev south-asset-south_arrow_left",
-                        "_css_classes": "south-arrow-btn south-results-prev south-asset-south_arrow_left"
-                      },
-                      "elements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "03d0951",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 84,
-                    "_inline_size": 84,
-                    "_inline_size_tablet": 80,
-                    "_inline_size_mobile": 72,
-                    "sizeTablet": 80,
-                    "sizeMobile": 72,
-                    "padding": {
-                      "unit": "em",
-                      "top": "0",
-                      "right": "0.5",
-                      "bottom": "0",
-                      "left": "0.5",
-                      "isLinked": false
-                    },
-                    "css_classes": "south-results-carousel-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "03d0950",
-                      "elType": "widget",
-                      "widgetType": "image-carousel",
-                      "settings": {
-                        "carousel": [
-                          {
-                            "id": 463,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png"
-                          },
-                          {
-                            "id": 463,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png"
-                          },
-                          {
-                            "id": 463,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png"
-                          },
-                          {
-                            "id": 463,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png"
-                          },
-                          {
-                            "id": 463,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png"
-                          },
-                          {
-                            "id": 463,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png"
-                          }
-                        ],
-                        "thumbnail_size": "full",
-                        "slides_to_show": "4",
-                        "slides_to_show_tablet": "2",
-                        "slides_to_show_mobile": "1",
-                        "slides_to_scroll": "1",
-                        "image_stretch": "no",
-                        "navigation": "both",
-                        "autoplay": "yes",
-                        "pause_on_hover": "yes",
-                        "pause_on_interaction": "yes",
-                        "autoplay_speed": 3000,
-                        "infinite": "yes",
-                        "speed": 600,
-                        "image_spacing": "custom",
-                        "image_spacing_custom": {
-                          "unit": "px",
-                          "size": 16,
-                          "sizes": []
-                        },
-                        "css_classes": "south-results-carousel",
-                        "_css_classes": "south-results-carousel"
-                      },
-                      "elements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "03d0953",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 8,
-                    "_inline_size": 8,
-                    "_inline_size_tablet": 10,
-                    "_inline_size_mobile": 14,
-                    "sizeTablet": 10,
-                    "sizeMobile": 14,
-                    "content_position": "center",
-                    "align": "right",
-                    "css_classes": "south-slider-arrow-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "03d0952",
-                      "elType": "widget",
-                      "widgetType": "image",
-                      "settings": {
-                        "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_arrow_right.png",
-                          "id": 338
-                        },
-                        "image_size": "full",
-                        "align": "right",
-                        "css_classes": "south-arrow-btn south-results-next south-asset-south_arrow_right",
-                        "_css_classes": "south-arrow-btn south-results-next south-asset-south_arrow_right"
-                      },
-                      "elements": []
-                    }
-                  ]
-                }
-              ]
+                "html": "<div class=\"south-results-carousel-container\">\n  <style>\n    .south-results-carousel-container {\n      width: 100%;\n      max-width: 1400px;\n      margin: 0 auto;\n      position: relative;\n      padding: 10px 0 20px 0;\n      font-family: 'Inter', sans-serif;\n    }\n    .south-results-carousel-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      gap: 16px;\n      width: 100%;\n    }\n    .south-arrow-btn {\n      flex: 0 0 54px;\n      width: 54px;\n      height: 54px;\n      border-radius: 50%;\n      background: #76C397;\n      border: none;\n      cursor: pointer;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      transition: transform 0.2s ease, background 0.2s ease;\n      box-shadow: 0 4px 12px rgba(118, 195, 151, 0.35);\n      padding: 0;\n      z-index: 2;\n    }\n    .south-arrow-btn:hover {\n      transform: scale(1.08);\n      background: #64b385;\n    }\n    .south-arrow-btn img {\n      width: 16px;\n      height: 24px;\n      object-fit: contain;\n      display: block;\n    }\n    .south-results-track {\n      display: flex;\n      gap: 24px;\n      overflow-x: auto;\n      scroll-snap-type: x mandatory;\n      scroll-behavior: smooth;\n      -webkit-overflow-scrolling: touch;\n      scrollbar-width: none;\n      padding: 15px 5px;\n      flex: 1;\n    }\n    .south-results-track::-webkit-scrollbar {\n      display: none;\n    }\n    .south-topper-card {\n      flex: 0 0 calc((100% - 72px) / 4);\n      min-width: 260px;\n      max-width: 310px;\n      scroll-snap-align: center;\n      border-radius: 16px;\n      overflow: hidden;\n      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);\n      transition: transform 0.25s ease, box-shadow 0.25s ease;\n      background: #ffffff;\n    }\n    .south-topper-card:hover {\n      transform: translateY(-6px);\n      box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);\n    }\n    .south-topper-card img {\n      width: 100%;\n      height: auto;\n      display: block;\n      object-fit: contain;\n    }\n    @media (max-width: 1024px) {\n      .south-topper-card {\n        flex: 0 0 calc((100% - 24px) / 2);\n      }\n    }\n    @media (max-width: 640px) {\n      .south-topper-card {\n        flex: 0 0 82%;\n        min-width: 240px;\n      }\n      .south-arrow-btn {\n        width: 44px;\n        height: 44px;\n        flex: 0 0 44px;\n      }\n    }\n  </style>\n  <div class=\"south-results-carousel-wrapper\">\n    <button type=\"button\" class=\"south-arrow-btn\" aria-label=\"Previous Topper\" onclick=\"this.closest('.south-results-carousel-container').querySelector('.south-results-track').scrollBy({left: -320, behavior: 'smooth'})\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_arrow_left.png\" alt=\"Prev\" />\n    </button>\n    <div class=\"south-results-track\">\n      <!-- SOUTH TOPPER CARD 1 (Change image src to your student photo) -->\n      <div class=\"south-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png\" alt=\"South Topper Card 1\" />\n      </div>\n      <!-- SOUTH TOPPER CARD 2 (Change image src to your student photo) -->\n      <div class=\"south-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png\" alt=\"South Topper Card 2\" />\n      </div>\n      <!-- SOUTH TOPPER CARD 3 (Change image src to your student photo) -->\n      <div class=\"south-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png\" alt=\"South Topper Card 3\" />\n      </div>\n      <!-- SOUTH TOPPER CARD 4 (Change image src to your student photo) -->\n      <div class=\"south-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png\" alt=\"South Topper Card 4\" />\n      </div>\n      <!-- SOUTH TOPPER CARD 5 (Change image src to your student photo) -->\n      <div class=\"south-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png\" alt=\"South Topper Card 5\" />\n      </div>\n      <!-- SOUTH TOPPER CARD 6 (Change image src to your student photo) -->\n      <div class=\"south-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_topper_card_full.png\" alt=\"South Topper Card 6\" />\n      </div>\n    </div>\n    <button type=\"button\" class=\"south-arrow-btn\" aria-label=\"Next Topper\" onclick=\"this.closest('.south-results-carousel-container').querySelector('.south-results-track').scrollBy({left: 320, behavior: 'smooth'})\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_arrow_right.png\" alt=\"Next\" />\n    </button>\n  </div>\n</div>"
+              }
             },
             {
-              "id": "03d0955",
+              "id": "so_res_btn",
               "elType": "widget",
               "widgetType": "button",
               "settings": {
-                "text": "Know More",
-                "link": {
-                  "url": "#",
-                  "is_external": false,
-                  "nofollow": false
-                },
+                "text": "Know More →",
                 "align": "center",
-                "size": "md",
-                "typography_typography": "custom",
-                "typography_font_family": "Nunito",
-                "typography_font_size": {
-                  "unit": "em",
-                  "size": 0.95,
-                  "sizes": []
+                "link": {
+                  "url": "#"
                 },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 0.95,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "button_text_color": "#252525",
-                "background_color": "#00000000",
-                "border_border": "solid",
-                "border_width": {
-                  "unit": "em",
-                  "top": "0.09375",
-                  "right": "0.09375",
-                  "bottom": "0.09375",
-                  "left": "0.09375",
-                  "isLinked": false
-                },
-                "border_color": "#252525",
+                "background_color": "#000000",
+                "button_text_color": "#FFFFFF",
                 "border_radius": {
-                  "unit": "em",
-                  "top": "2.4375",
-                  "right": "2.4375",
-                  "bottom": "2.4375",
-                  "left": "2.4375",
-                  "isLinked": false
-                },
-                "text_padding": {
-                  "unit": "em",
-                  "top": "0.85",
-                  "right": "2",
-                  "bottom": "0.85",
-                  "left": "2",
-                  "isLinked": false
-                },
-                "css_classes": "south-btn-pill south-btn-dark south-results-btn",
-                "_css_classes": "south-btn-pill south-btn-dark south-results-btn"
-              },
-              "elements": []
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30"
+                }
+              }
             }
           ]
         }
@@ -3045,306 +2796,66 @@
       },
       "elements": [
         {
-          "id": "03d096b",
+          "id": "so_evt_col_1",
           "elType": "column",
-          "isInner": false,
           "settings": {
-            "_column_size": 100,
-            "_inline_size": 100,
-            "align": "center"
+            "_column_size": 100
           },
           "elements": [
             {
-              "id": "03d0961",
+              "id": "so_evt_heading",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
                 "title": "EVENTS",
-                "header_size": "h2",
                 "align": "center",
+                "header_size": "h2",
                 "title_color": "#252525",
                 "typography_typography": "custom",
                 "typography_font_family": "Georgia",
                 "typography_font_size": {
-                  "unit": "em",
-                  "size": 3.125,
-                  "sizes": []
+                  "unit": "px",
+                  "size": 50
                 },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 2.2,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 1.85,
-                  "sizes": []
-                },
-                "typography_font_weight": "700",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1.15,
-                  "sizes": []
-                },
-                "_margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1.85",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "_margin_mobile": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "css_classes": "south-events-heading",
-                "_css_classes": "south-events-heading"
-              },
-              "elements": []
+                "typography_font_weight": "700"
+              }
             },
             {
-              "id": "03d0962",
+              "id": "so_evt_desc",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
-                "editor": "<p style=\"margin:0;\">From academic achievements and cultural celebrations to sports victories, student-led initiatives and inspiring guest sessions, our campus is always alive with energy, creativity and talent. Dive into the experiences that define student life at RVPU South.</p>",
-                "align": "center",
-                "text_color": "#252525",
-                "typography_typography": "custom",
-                "typography_font_family": "Inter",
-                "typography_font_size": {
-                  "unit": "em",
-                  "size": 1.125,
-                  "sizes": []
-                },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 0.95,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1.25,
-                  "sizes": []
-                },
-                "_margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1.35",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "css_classes": "south-events-subtitle",
-                "_css_classes": "south-events-subtitle"
-              },
-              "elements": []
+                "editor": "<p style=\"text-align: center; color: #252525; font-family: Inter, sans-serif; font-size: 18px; max-width: 900px; margin: 0 auto 20px auto;\">From academic achievements and cultural celebrations to sports victories, student-led initiatives and inspiring guest sessions, our campus is always alive with energy, creativity and talent. Dive into the experiences that define student life at RVPU South.</p>"
+              }
             },
             {
-              "id": "03d0969",
-              "elType": "section",
-              "isInner": true,
+              "id": "so_evt_carousel_html",
+              "elType": "widget",
+              "widgetType": "html",
               "settings": {
-                "layout": "full_width",
-                "gap": "no",
-                "content_position": "middle",
-                "margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "2.4",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "margin_mobile": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1.5",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "css_classes": "south-events-slider-row"
-              },
-              "elements": [
-                {
-                  "id": "03d0964",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 7,
-                    "_inline_size": 7,
-                    "_inline_size_tablet": 10,
-                    "_inline_size_mobile": 14,
-                    "sizeTablet": 10,
-                    "sizeMobile": 14,
-                    "content_position": "center",
-                    "align": "left",
-                    "css_classes": "south-slider-arrow-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "03d0963",
-                      "elType": "widget",
-                      "widgetType": "image",
-                      "settings": {
-                        "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_arrow_left.png",
-                          "id": 337
-                        },
-                        "image_size": "full",
-                        "align": "left",
-                        "css_classes": "south-arrow-btn south-events-prev south-asset-south_arrow_left",
-                        "_css_classes": "south-arrow-btn south-events-prev south-asset-south_arrow_left"
-                      },
-                      "elements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "03d0966",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 86,
-                    "_inline_size": 86,
-                    "_inline_size_tablet": 80,
-                    "_inline_size_mobile": 72,
-                    "sizeTablet": 80,
-                    "sizeMobile": 72,
-                    "content_position": "center",
-                    "padding": {
-                      "unit": "em",
-                      "top": "0",
-                      "right": "0.5",
-                      "bottom": "0",
-                      "left": "0.5",
-                      "isLinked": false
-                    },
-                    "css_classes": "south-events-panels-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "03d0965",
-                      "elType": "widget",
-                      "widgetType": "html",
-                      "settings": {
-                        "html": "<div class=\"south-events-carousel-wrap\">\n                      <div class=\"south-events-perspective-stage\" data-active-event=\"3\">\n                        <div class=\"south-evt-item south-evt-p1 south-asset-south_event_panel_1\" data-evt-index=\"0\" data-slot=\"0\"><img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_1.png\" alt=\"Event 1\" /></div>\n                        <div class=\"south-evt-item south-evt-p2 south-asset-south_event_panel_2\" data-evt-index=\"1\" data-slot=\"1\"><img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_2.png\" alt=\"Event 2\" /></div>\n                        <div class=\"south-evt-item south-evt-p3 south-asset-south_event_panel_3\" data-evt-index=\"2\" data-slot=\"2\"><img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_3.png\" alt=\"Event 3\" /></div>\n                        <div class=\"south-evt-item south-evt-p4 is-center south-asset-south_event_panel_4\" data-evt-index=\"3\" data-slot=\"3\"><img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_4.png\" alt=\"Event 4\" /></div>\n                        <div class=\"south-evt-item south-evt-p5 south-asset-south_event_panel_5\" data-evt-index=\"4\" data-slot=\"4\"><img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_5.png\" alt=\"Event 5\" /></div>\n                        <div class=\"south-evt-item south-evt-p6 south-asset-south_event_panel_6\" data-evt-index=\"5\" data-slot=\"5\"><img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_6.png\" alt=\"Event 6\" /></div>\n                        <div class=\"south-evt-item south-evt-p7 south-asset-south_event_panel_7\" data-evt-index=\"6\" data-slot=\"6\"><img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_7.png\" alt=\"Event 7\" /></div>\n                      </div>\n                      <div class=\"south-events-dots\" role=\"tablist\" aria-label=\"Events Carousel Pagination\">\n                        <button type=\"button\" class=\"south-evt-dot\" data-dot=\"0\" aria-label=\"Slide 1\"></button>\n                        <button type=\"button\" class=\"south-evt-dot\" data-dot=\"1\" aria-label=\"Slide 2\"></button>\n                        <button type=\"button\" class=\"south-evt-dot\" data-dot=\"2\" aria-label=\"Slide 3\"></button>\n                        <button type=\"button\" class=\"south-evt-dot is-active\" data-dot=\"3\" aria-label=\"Slide 4\"></button>\n                        <button type=\"button\" class=\"south-evt-dot\" data-dot=\"4\" aria-label=\"Slide 5\"></button>\n                        <button type=\"button\" class=\"south-evt-dot\" data-dot=\"5\" aria-label=\"Slide 6\"></button>\n                        <button type=\"button\" class=\"south-evt-dot\" data-dot=\"6\" aria-label=\"Slide 7\"></button>\n                      </div>\n                    </div>"
-                      },
-                      "elements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "03d0968",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 7,
-                    "_inline_size": 7,
-                    "_inline_size_tablet": 10,
-                    "_inline_size_mobile": 14,
-                    "sizeTablet": 10,
-                    "sizeMobile": 14,
-                    "content_position": "center",
-                    "align": "right",
-                    "css_classes": "south-slider-arrow-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "03d0967",
-                      "elType": "widget",
-                      "widgetType": "image",
-                      "settings": {
-                        "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_arrow_right.png",
-                          "id": 338
-                        },
-                        "image_size": "full",
-                        "align": "right",
-                        "css_classes": "south-arrow-btn south-events-next south-asset-south_arrow_right",
-                        "_css_classes": "south-arrow-btn south-events-next south-asset-south_arrow_right"
-                      },
-                      "elements": []
-                    }
-                  ]
-                }
-              ]
+                "html": "<div class=\"south-events-carousel-wrap\">\n  <style>\n    .south-events-carousel-wrap {\n      width: 100%;\n      max-width: 1400px;\n      margin: 0 auto;\n      text-align: center;\n      position: relative;\n      padding: 10px 0 20px 0;\n    }\n    .south-events-carousel-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      gap: 16px;\n      width: 100%;\n    }\n    .south-evt-arrow-btn {\n      flex: 0 0 54px;\n      width: 54px;\n      height: 54px;\n      border-radius: 50%;\n      background: #2B2B2B;\n      border: none;\n      cursor: pointer;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      transition: transform 0.2s ease, background 0.2s ease;\n      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);\n      padding: 0;\n      z-index: 2;\n    }\n    .south-evt-arrow-btn:hover {\n      transform: scale(1.08);\n      background: #111111;\n    }\n    .south-evt-arrow-btn img {\n      width: 16px;\n      height: 24px;\n      object-fit: contain;\n      display: block;\n      filter: invert(1);\n    }\n    .south-events-track {\n      display: flex;\n      gap: 20px;\n      overflow-x: auto;\n      scroll-snap-type: x mandatory;\n      scroll-behavior: smooth;\n      -webkit-overflow-scrolling: touch;\n      scrollbar-width: none;\n      padding: 15px 5px;\n      flex: 1;\n    }\n    .south-events-track::-webkit-scrollbar {\n      display: none;\n    }\n    .south-evt-panel {\n      flex: 0 0 280px;\n      height: 360px;\n      border-radius: 18px;\n      overflow: hidden;\n      scroll-snap-align: center;\n      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);\n      transition: transform 0.3s ease;\n      background: #FFFFFF;\n    }\n    .south-evt-panel:hover {\n      transform: translateY(-8px);\n    }\n    .south-evt-panel img {\n      width: 100%;\n      height: 100%;\n      object-fit: cover;\n      display: block;\n    }\n    @media (max-width: 1024px) {\n      .south-evt-panel {\n        flex: 0 0 240px;\n        height: 310px;\n      }\n    }\n    @media (max-width: 640px) {\n      .south-evt-panel {\n        flex: 0 0 80%;\n        height: 280px;\n      }\n      .south-evt-arrow-btn {\n        width: 44px;\n        height: 44px;\n        flex: 0 0 44px;\n      }\n    }\n  </style>\n  <div class=\"south-events-carousel-wrapper\">\n    <button type=\"button\" class=\"south-evt-arrow-btn\" aria-label=\"Previous Event\" onclick=\"this.closest('.south-events-carousel-wrap').querySelector('.south-events-track').scrollBy({left: -300, behavior: 'smooth'})\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_arrow_left.png\" alt=\"Prev\" />\n    </button>\n    <div class=\"south-events-track\">\n      <!-- SOUTH EVENT 1 (Change image src to your event photo) -->\n      <div class=\"south-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_1.png\" alt=\"South Campus Event 1\" />\n      </div>\n      <!-- SOUTH EVENT 2 (Change image src to your event photo) -->\n      <div class=\"south-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_2.png\" alt=\"South Campus Event 2\" />\n      </div>\n      <!-- SOUTH EVENT 3 (Change image src to your event photo) -->\n      <div class=\"south-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_3.png\" alt=\"South Campus Event 3\" />\n      </div>\n      <!-- SOUTH EVENT 4 (Change image src to your event photo) -->\n      <div class=\"south-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_4.png\" alt=\"South Campus Event 4\" />\n      </div>\n      <!-- SOUTH EVENT 5 (Change image src to your event photo) -->\n      <div class=\"south-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_5.png\" alt=\"South Campus Event 5\" />\n      </div>\n      <!-- SOUTH EVENT 6 (Change image src to your event photo) -->\n      <div class=\"south-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_6.png\" alt=\"South Campus Event 6\" />\n      </div>\n      <!-- SOUTH EVENT 7 (Change image src to your event photo) -->\n      <div class=\"south-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_event_panel_7.png\" alt=\"South Campus Event 7\" />\n      </div>\n    </div>\n    <button type=\"button\" class=\"south-evt-arrow-btn\" aria-label=\"Next Event\" onclick=\"this.closest('.south-events-carousel-wrap').querySelector('.south-events-track').scrollBy({left: 300, behavior: 'smooth'})\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/south_arrow_right.png\" alt=\"Next\" />\n    </button>\n  </div>\n</div>"
+              }
             },
             {
-              "id": "03d096a",
+              "id": "so_evt_btn",
               "elType": "widget",
               "widgetType": "button",
               "settings": {
-                "text": "Know More",
-                "link": {
-                  "url": "#",
-                  "is_external": false,
-                  "nofollow": false
-                },
+                "text": "Know More →",
                 "align": "center",
-                "size": "md",
-                "typography_typography": "custom",
-                "typography_font_family": "Nunito",
-                "typography_font_size": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
+                "link": {
+                  "url": "#"
                 },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 0.95,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "button_text_color": "#252525",
-                "background_color": "#00000000",
-                "border_border": "solid",
-                "border_width": {
-                  "unit": "em",
-                  "top": "0.09375",
-                  "right": "0.09375",
-                  "bottom": "0.09375",
-                  "left": "0.09375",
-                  "isLinked": false
-                },
-                "border_color": "#252525",
+                "background_color": "#000000",
+                "button_text_color": "#FFFFFF",
                 "border_radius": {
-                  "unit": "em",
-                  "top": "2.4375",
-                  "right": "2.4375",
-                  "bottom": "2.4375",
-                  "left": "2.4375",
-                  "isLinked": false
-                },
-                "text_padding": {
-                  "unit": "em",
-                  "top": "0.85",
-                  "right": "2",
-                  "bottom": "0.85",
-                  "left": "2",
-                  "isLinked": false
-                },
-                "css_classes": "south-btn-pill south-btn-dark",
-                "_css_classes": "south-btn-pill south-btn-dark"
-              },
-              "elements": []
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30"
+                }
+              }
             }
           ]
         }
@@ -4619,6 +4130,17 @@
                   ]
                 }
               ]
+            },
+            {
+              "id": "south_runtime_helper_widget",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Nunito:wght@400;600;700&display=swap\" rel=\"stylesheet\">",
+                "css_classes": "south-runtime-helper-widget",
+                "_css_classes": "south-runtime-helper-widget"
+              },
+              "elements": []
             }
           ]
         }

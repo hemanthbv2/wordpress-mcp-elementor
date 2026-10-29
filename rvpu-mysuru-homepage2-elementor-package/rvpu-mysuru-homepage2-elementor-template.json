@@ -1,6 +1,6 @@
 {
   "version": "0.4",
-  "title": "RVPU Mysuru - Home Page 2 (Native Elementor, EM Responsive)",
+  "title": "RVPU Mysuru — Home Page 2 (Native Elementor, 100% Editable)",
   "type": "page",
   "content": [
     {
@@ -95,8 +95,8 @@
               "widgetType": "image",
               "settings": {
                 "image": {
-                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_logo.png",
-                  "id": 274
+                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_logo.png",
+                  "id": ""
                 },
                 "image_size": "full",
                 "align": "left",
@@ -325,7 +325,16 @@
           "left": "1.25",
           "isLinked": false
         },
-        "css_classes": "mysuru-hero-section"
+        "css_classes": "mysuru-hero-section",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_position": "center center",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_overlay_background": "classic",
+        "background_overlay_color": "rgba(15, 23, 42, 0.40)"
       },
       "elements": [
         {
@@ -345,8 +354,8 @@
               "widgetType": "image",
               "settings": {
                 "image": {
-                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_hero_play.png",
-                  "id": 266
+                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_hero_play.png",
+                  "id": ""
                 },
                 "image_size": "full",
                 "align": "center",
@@ -395,7 +404,7 @@
             "background_background": "classic",
             "background_color": "#FBF6EE",
             "background_image": {
-              "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_welcome_left_bg.png",
+              "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_welcome_left_bg.png",
               "id": 279
             },
             "background_position": "center center",
@@ -572,41 +581,32 @@
                   "sizes": []
                 },
                 "typography_font_weight": "400",
-                "typography_text_decoration": "none",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
                 "button_text_color": "#E58D4D",
-                "hover_color": "#FFFFFF",
                 "background_color": "#00000000",
-                "button_background_hover_color": "#E58D4D",
-                "button_hover_border_color": "#E58D4D",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "em",
-                  "top": "0.125",
-                  "right": "0.125",
-                  "bottom": "0.125",
-                  "left": "0.125",
+                  "top": "0.0625",
+                  "right": "0.0625",
+                  "bottom": "0.0625",
+                  "left": "0.0625",
                   "isLinked": false
                 },
                 "border_color": "#E58D4D",
                 "border_radius": {
                   "unit": "em",
-                  "top": "2.1875",
-                  "right": "2.1875",
-                  "bottom": "2.1875",
-                  "left": "2.1875",
+                  "top": "2.2",
+                  "right": "2.2",
+                  "bottom": "2.2",
+                  "left": "2.2",
                   "isLinked": false
                 },
                 "text_padding": {
                   "unit": "em",
                   "top": "0.85",
-                  "right": "1.65",
+                  "right": "1.85",
                   "bottom": "0.85",
-                  "left": "1.65",
+                  "left": "1.85",
                   "isLinked": false
                 },
                 "_margin": {
@@ -669,8 +669,8 @@
               "widgetType": "image",
               "settings": {
                 "image": {
-                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_welcome_campus.png",
-                  "id": 278
+                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_welcome_campus.png",
+                  "id": ""
                 },
                 "image_size": "full",
                 "align": "center",
@@ -814,7 +814,7 @@
         "background_background": "classic",
         "background_color": "#323130",
         "background_image": {
-          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_admissions_bg.png",
+          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_admissions_bg.png",
           "id": 246
         },
         "background_position": "center center",
@@ -966,8 +966,8 @@
                       "widgetType": "image",
                       "settings": {
                         "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_phone_orange.png",
-                          "id": 272
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_phone_orange.png",
+                          "id": ""
                         },
                         "image_size": "full",
                         "align": "left",
@@ -1044,8 +1044,8 @@
                       "widgetType": "image",
                       "settings": {
                         "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_email_orange.png",
-                          "id": 269
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_email_orange.png",
+                          "id": ""
                         },
                         "image_size": "full",
                         "align": "left",
@@ -1059,7 +1059,7 @@
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
-                        "title": "<a href=\"mailto:info.rvpus@rvei.edu.in\" style=\"color:#FFFFFF;text-decoration:none;\">info.rvpus@rvei.edu.in</a>",
+                        "title": "<a href=\"mailto:info.rvpum@rvei.edu.in\" style=\"color:#FFFFFF;text-decoration:none;\">info.rvpus@rvei.edu.in</a>",
                         "header_size": "span",
                         "align": "left",
                         "title_color": "#FFFFFF",
@@ -1126,41 +1126,32 @@
                   "sizes": []
                 },
                 "typography_font_weight": "400",
-                "typography_text_decoration": "none",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
                 "button_text_color": "#E58D4D",
-                "hover_color": "#FFFFFF",
                 "background_color": "#00000000",
-                "button_background_hover_color": "#E58D4D",
-                "button_hover_border_color": "#E58D4D",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "em",
-                  "top": "0.125",
-                  "right": "0.125",
-                  "bottom": "0.125",
-                  "left": "0.125",
+                  "top": "0.0625",
+                  "right": "0.0625",
+                  "bottom": "0.0625",
+                  "left": "0.0625",
                   "isLinked": false
                 },
                 "border_color": "#E58D4D",
                 "border_radius": {
                   "unit": "em",
-                  "top": "2.1875",
-                  "right": "2.1875",
-                  "bottom": "2.1875",
-                  "left": "2.1875",
+                  "top": "2.2",
+                  "right": "2.2",
+                  "bottom": "2.2",
+                  "left": "2.2",
                   "isLinked": false
                 },
                 "text_padding": {
                   "unit": "em",
                   "top": "0.85",
-                  "right": "1.65",
+                  "right": "1.85",
                   "bottom": "0.85",
-                  "left": "1.65",
+                  "left": "1.85",
                   "isLinked": false
                 },
                 "css_classes": "mysuru-btn-pill mysuru-btn-orange",
@@ -1182,7 +1173,7 @@
         "background_background": "classic",
         "background_color": "#F6ECDC",
         "background_image": {
-          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png",
+          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png",
           "id": 249
         },
         "background_position": "center center",
@@ -1338,7 +1329,7 @@
                         "background_background": "classic",
                         "background_color": "#D48146",
                         "background_image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
                           "id": 251
                         },
                         "background_position": "center center",
@@ -1435,8 +1426,8 @@
                               "widgetType": "image",
                               "settings": {
                                 "image": {
-                                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_pcmb.png",
-                                  "id": 270
+                                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_pcmb.png",
+                                  "id": ""
                                 },
                                 "image_size": "full",
                                 "align": "center",
@@ -1600,7 +1591,7 @@
                         "background_background": "classic",
                         "background_color": "#D48146",
                         "background_image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
                           "id": 251
                         },
                         "background_position": "center center",
@@ -1697,8 +1688,8 @@
                               "widgetType": "image",
                               "settings": {
                                 "image": {
-                                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_bams.png",
-                                  "id": 268
+                                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_bams.png",
+                                  "id": ""
                                 },
                                 "image_size": "full",
                                 "align": "center",
@@ -1883,8 +1874,8 @@
                       "widgetType": "image",
                       "settings": {
                         "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_mascot.png",
-                          "id": 250
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_mascot.png",
+                          "id": ""
                         },
                         "image_size": "full",
                         "align": "center",
@@ -1952,7 +1943,7 @@
                         "background_background": "classic",
                         "background_color": "#D48146",
                         "background_image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
                           "id": 251
                         },
                         "background_position": "center center",
@@ -2049,8 +2040,8 @@
                               "widgetType": "image",
                               "settings": {
                                 "image": {
-                                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_pcmc.png",
-                                  "id": 271
+                                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_pcmc.png",
+                                  "id": ""
                                 },
                                 "image_size": "full",
                                 "align": "center",
@@ -2214,7 +2205,7 @@
                         "background_background": "classic",
                         "background_color": "#D48146",
                         "background_image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
                           "id": 251
                         },
                         "background_position": "center center",
@@ -2311,8 +2302,8 @@
                               "widgetType": "image",
                               "settings": {
                                 "image": {
-                                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_bame.png",
-                                  "id": 267
+                                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_bame.png",
+                                  "id": ""
                                 },
                                 "image_size": "full",
                                 "align": "center",
@@ -2480,7 +2471,7 @@
                 "background_background": "classic",
                 "background_color": "#D48146",
                 "background_image": {
-                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
+                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png",
                   "id": 251
                 },
                 "background_position": "center center",
@@ -2577,8 +2568,8 @@
                       "widgetType": "image",
                       "settings": {
                         "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_seba.png",
-                          "id": 273
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_seba.png",
+                          "id": ""
                         },
                         "image_size": "full",
                         "align": "center",
@@ -2762,41 +2753,32 @@
                   "sizes": []
                 },
                 "typography_font_weight": "400",
-                "typography_text_decoration": "none",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
                 "button_text_color": "#E58D4D",
-                "hover_color": "#FFFFFF",
                 "background_color": "#00000000",
-                "button_background_hover_color": "#E58D4D",
-                "button_hover_border_color": "#E58D4D",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "em",
-                  "top": "0.125",
-                  "right": "0.125",
-                  "bottom": "0.125",
-                  "left": "0.125",
+                  "top": "0.0625",
+                  "right": "0.0625",
+                  "bottom": "0.0625",
+                  "left": "0.0625",
                   "isLinked": false
                 },
                 "border_color": "#E58D4D",
                 "border_radius": {
                   "unit": "em",
-                  "top": "2.1875",
-                  "right": "2.1875",
-                  "bottom": "2.1875",
-                  "left": "2.1875",
+                  "top": "2.2",
+                  "right": "2.2",
+                  "bottom": "2.2",
+                  "left": "2.2",
                   "isLinked": false
                 },
                 "text_padding": {
                   "unit": "em",
                   "top": "0.85",
-                  "right": "1.65",
+                  "right": "1.85",
                   "bottom": "0.85",
-                  "left": "1.65",
+                  "left": "1.85",
                   "isLinked": false
                 },
                 "_margin": {
@@ -2842,7 +2824,7 @@
         "background_background": "classic",
         "background_color": "#F6ECDC",
         "background_image": {
-          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png",
+          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png",
           "id": 249
         },
         "background_position": "center top",
@@ -2940,8 +2922,8 @@
               "widgetType": "image",
               "settings": {
                 "image": {
-                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_mascot.png",
-                  "id": 250
+                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_mascot.png",
+                  "id": ""
                 },
                 "image_size": "full",
                 "align": "center",
@@ -2963,7 +2945,7 @@
               "elType": "widget",
               "widgetType": "html",
               "settings": {
-                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_pcmc.png\" alt=\"PCMC\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">PCMC</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Physics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Mathematics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Chemistry</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Computer Science</span></div>\n  </div>\n</div>",
+                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_pcmc.png\" alt=\"PCMC\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">PCMC</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Physics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Mathematics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Chemistry</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Computer Science</span></div>\n  </div>\n</div>",
                 "_margin": {
                   "unit": "em",
                   "top": "0",
@@ -2990,7 +2972,7 @@
               "elType": "widget",
               "widgetType": "html",
               "settings": {
-                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_pcmb.png\" alt=\"PCMB\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">PCMB</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Physics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Mathematics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Chemistry</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Biology</span></div>\n  </div>\n</div>",
+                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_pcmb.png\" alt=\"PCMB\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">PCMB</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Physics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Mathematics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Chemistry</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Biology</span></div>\n  </div>\n</div>",
                 "_margin": {
                   "unit": "em",
                   "top": "0",
@@ -3017,7 +2999,7 @@
               "elType": "widget",
               "widgetType": "html",
               "settings": {
-                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_bams.png\" alt=\"BAMS\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">BAMS</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Business Studies</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Basic Mathematics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Accountancy</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Statistics</span></div>\n  </div>\n</div>",
+                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_bams.png\" alt=\"BAMS\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">BAMS</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Business Studies</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Basic Mathematics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Accountancy</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Statistics</span></div>\n  </div>\n</div>",
                 "_margin": {
                   "unit": "em",
                   "top": "0",
@@ -3044,7 +3026,7 @@
               "elType": "widget",
               "widgetType": "html",
               "settings": {
-                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_bame.png\" alt=\"BAME\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">BAME</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Business Studies</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Basic Mathematics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Accountancy</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Economics</span></div>\n  </div>\n</div>",
+                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_bame.png\" alt=\"BAME\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">BAME</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Business Studies</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Basic Mathematics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Accountancy</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Economics</span></div>\n  </div>\n</div>",
                 "_margin": {
                   "unit": "em",
                   "top": "0",
@@ -3071,7 +3053,7 @@
               "elType": "widget",
               "widgetType": "html",
               "settings": {
-                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_seba.png\" alt=\"SEBA\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">SEBA</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Statistics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Business Studies</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Economics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Accountancy</span></div>\n  </div>\n</div>",
+                "html": "<div class=\"mysuru-mob-course-card\">\n  <div class=\"mysuru-mob-card-head\">\n    <div class=\"mysuru-mob-card-icon-box\">\n      <img src=\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_icon_seba.png\" alt=\"SEBA\" class=\"mysuru-mob-card-icon\" />\n    </div>\n    <div class=\"mysuru-mob-card-code-box\">\n      <span class=\"mysuru-mob-card-code-text\">SEBA</span>\n    </div>\n  </div>\n  <div class=\"mysuru-mob-card-body\">\n    <div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Statistics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Business Studies</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Economics</span></div><div class=\"mysuru-mob-sub-item\"><span class=\"mysuru-mob-sub-arrow\">&#9654;</span><span class=\"mysuru-mob-sub-text\">Accountancy</span></div>\n  </div>\n</div>",
                 "_margin": {
                   "unit": "em",
                   "top": "0",
@@ -3098,7 +3080,7 @@
               "elType": "widget",
               "widgetType": "button",
               "settings": {
-                "text": "Know More",
+                "text": "Know More &gt;",
                 "link": {
                   "url": "#",
                   "is_external": false,
@@ -3110,7 +3092,7 @@
                 "typography_font_family": "Inter",
                 "typography_font_size": {
                   "unit": "em",
-                  "size": 1,
+                  "size": 0.95,
                   "sizes": []
                 },
                 "typography_font_size_tablet": {
@@ -3124,41 +3106,32 @@
                   "sizes": []
                 },
                 "typography_font_weight": "400",
-                "typography_text_decoration": "none",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "button_text_color": "#E58D4D",
-                "hover_color": "#FFFFFF",
+                "button_text_color": "#D48146",
                 "background_color": "#00000000",
-                "button_background_hover_color": "#E58D4D",
-                "button_hover_border_color": "#E58D4D",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "em",
-                  "top": "0.125",
-                  "right": "0.125",
-                  "bottom": "0.125",
-                  "left": "0.125",
+                  "top": "0.0625",
+                  "right": "0.0625",
+                  "bottom": "0.0625",
+                  "left": "0.0625",
                   "isLinked": false
                 },
-                "border_color": "#E58D4D",
+                "border_color": "#D48146",
                 "border_radius": {
                   "unit": "em",
-                  "top": "2.1875",
-                  "right": "2.1875",
-                  "bottom": "2.1875",
-                  "left": "2.1875",
+                  "top": "2.2",
+                  "right": "2.2",
+                  "bottom": "2.2",
+                  "left": "2.2",
                   "isLinked": false
                 },
                 "text_padding": {
                   "unit": "em",
                   "top": "0.85",
-                  "right": "1.65",
+                  "right": "1.85",
                   "bottom": "0.85",
-                  "left": "1.65",
+                  "left": "1.85",
                   "isLinked": false
                 },
                 "_margin": {
@@ -3169,8 +3142,8 @@
                   "left": "0",
                   "isLinked": false
                 },
-                "css_classes": "mysuru-btn-pill mysuru-btn-orange mysuru-mob-courses-btn",
-                "_css_classes": "mysuru-btn-pill mysuru-btn-orange mysuru-mob-courses-btn"
+                "css_classes": "mysuru-btn-pill mysuru-mob-courses-btn",
+                "_css_classes": "mysuru-btn-pill mysuru-mob-courses-btn"
               },
               "elements": []
             }
@@ -3215,338 +3188,58 @@
       },
       "elements": [
         {
-          "id": "02dc71c",
+          "id": "my_res_col_1",
           "elType": "column",
-          "isInner": false,
           "settings": {
-            "_column_size": 100,
-            "_inline_size": 100,
-            "align": "center"
+            "_column_size": 100
           },
           "elements": [
             {
-              "id": "02dc713",
+              "id": "my_res_heading",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
                 "title": "RESULTS",
-                "header_size": "h2",
                 "align": "center",
+                "header_size": "h2",
                 "title_color": "#E58D4D",
                 "typography_typography": "custom",
                 "typography_font_family": "Georgia",
                 "typography_font_size": {
-                  "unit": "em",
-                  "size": 2.5,
-                  "sizes": []
+                  "unit": "px",
+                  "size": 40
                 },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 2.2,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 2,
-                  "sizes": []
-                },
-                "typography_font_weight": "700",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1.2,
-                  "sizes": []
-                },
-                "_margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1.65",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "_margin_mobile": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1.2",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": []
+                "typography_font_weight": "700"
+              }
             },
             {
-              "id": "02dc71a",
-              "elType": "section",
-              "isInner": true,
+              "id": "my_res_carousel_html",
+              "elType": "widget",
+              "widgetType": "html",
               "settings": {
-                "layout": "full_width",
-                "gap": "no",
-                "content_position": "middle",
-                "margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "2",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "css_classes": "mysuru-results-slider-row"
-              },
-              "elements": [
-                {
-                  "id": "02dc715",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 6,
-                    "_inline_size": 6,
-                    "_inline_size_tablet": 10,
-                    "_inline_size_mobile": 14,
-                    "sizeTablet": 10,
-                    "sizeMobile": 14,
-                    "content_position": "center",
-                    "align": "left",
-                    "css_classes": "mysuru-slider-arrow-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "02dc714",
-                      "elType": "widget",
-                      "widgetType": "image",
-                      "settings": {
-                        "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_arrow_left.png",
-                          "id": 247
-                        },
-                        "image_size": "full",
-                        "align": "left",
-                        "css_classes": "mysuru-arrow-btn mysuru-results-prev mysuru-asset-mysuru_arrow_left",
-                        "_css_classes": "mysuru-arrow-btn mysuru-results-prev mysuru-asset-mysuru_arrow_left"
-                      },
-                      "elements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "02dc717",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 88,
-                    "_inline_size": 88,
-                    "_inline_size_tablet": 80,
-                    "_inline_size_mobile": 72,
-                    "sizeTablet": 80,
-                    "sizeMobile": 72,
-                    "padding": {
-                      "unit": "em",
-                      "top": "0",
-                      "right": "0.75",
-                      "bottom": "0",
-                      "left": "0.75",
-                      "isLinked": false
-                    },
-                    "padding_tablet": {
-                      "unit": "em",
-                      "top": "0",
-                      "right": "0.5",
-                      "bottom": "0",
-                      "left": "0.5",
-                      "isLinked": false
-                    },
-                    "padding_mobile": {
-                      "unit": "em",
-                      "top": "0",
-                      "right": "0.25",
-                      "bottom": "0",
-                      "left": "0.25",
-                      "isLinked": false
-                    },
-                    "css_classes": "mysuru-results-carousel-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "02dc716",
-                      "elType": "widget",
-                      "widgetType": "image-carousel",
-                      "settings": {
-                        "carousel": [
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          },
-                          {
-                            "id": 275,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png"
-                          }
-                        ],
-                        "thumbnail_size": "full",
-                        "slides_to_show": "5",
-                        "slides_to_show_tablet": "2",
-                        "slides_to_show_mobile": "1",
-                        "slides_to_scroll": "1",
-                        "image_stretch": "no",
-                        "navigation": "none",
-                        "autoplay": "yes",
-                        "pause_on_hover": "yes",
-                        "pause_on_interaction": "yes",
-                        "autoplay_speed": 2800,
-                        "infinite": "yes",
-                        "speed": 600,
-                        "image_spacing": "custom",
-                        "image_spacing_custom": {
-                          "unit": "px",
-                          "size": 28,
-                          "sizes": []
-                        },
-                        "css_classes": "mysuru-results-carousel",
-                        "_css_classes": "mysuru-results-carousel"
-                      },
-                      "elements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "02dc719",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 6,
-                    "_inline_size": 6,
-                    "_inline_size_tablet": 10,
-                    "_inline_size_mobile": 14,
-                    "sizeTablet": 10,
-                    "sizeMobile": 14,
-                    "content_position": "center",
-                    "align": "right",
-                    "css_classes": "mysuru-slider-arrow-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "02dc718",
-                      "elType": "widget",
-                      "widgetType": "image",
-                      "settings": {
-                        "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_arrow_right.png",
-                          "id": 248
-                        },
-                        "image_size": "full",
-                        "align": "right",
-                        "css_classes": "mysuru-arrow-btn mysuru-results-next mysuru-asset-mysuru_arrow_right",
-                        "_css_classes": "mysuru-arrow-btn mysuru-results-next mysuru-asset-mysuru_arrow_right"
-                      },
-                      "elements": []
-                    }
-                  ]
-                }
-              ]
+                "html": "<div class=\"mysuru-results-carousel-container\">\n  <style>\n    .mysuru-results-carousel-container {\n      width: 100%;\n      max-width: 1400px;\n      margin: 0 auto;\n      position: relative;\n      padding: 10px 0 20px 0;\n      font-family: 'Inter', sans-serif;\n    }\n    .mysuru-results-carousel-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      gap: 16px;\n      width: 100%;\n    }\n    .mysuru-arrow-btn {\n      flex: 0 0 54px;\n      width: 54px;\n      height: 54px;\n      border-radius: 50%;\n      background: #E58D4D;\n      border: none;\n      cursor: pointer;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      transition: transform 0.2s ease, background 0.2s ease;\n      box-shadow: 0 4px 12px rgba(229, 141, 77, 0.35);\n      padding: 0;\n      z-index: 2;\n    }\n    .mysuru-arrow-btn:hover {\n      transform: scale(1.08);\n      background: #d47c3c;\n    }\n    .mysuru-arrow-btn img {\n      width: 16px;\n      height: 24px;\n      object-fit: contain;\n      display: block;\n    }\n    .mysuru-results-track {\n      display: flex;\n      gap: 22px;\n      overflow-x: auto;\n      scroll-snap-type: x mandatory;\n      scroll-behavior: smooth;\n      -webkit-overflow-scrolling: touch;\n      scrollbar-width: none;\n      padding: 15px 5px;\n      flex: 1;\n    }\n    .mysuru-results-track::-webkit-scrollbar {\n      display: none;\n    }\n    .mysuru-topper-card {\n      flex: 0 0 calc((100% - 88px) / 5);\n      min-width: 240px;\n      max-width: 280px;\n      scroll-snap-align: center;\n      border-radius: 16px;\n      overflow: hidden;\n      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);\n      transition: transform 0.25s ease, box-shadow 0.25s ease;\n      background: #ffffff;\n    }\n    .mysuru-topper-card:hover {\n      transform: translateY(-6px);\n      box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);\n    }\n    .mysuru-topper-card img {\n      width: 100%;\n      height: auto;\n      display: block;\n      object-fit: contain;\n    }\n    @media (max-width: 1200px) {\n      .mysuru-topper-card {\n        flex: 0 0 calc((100% - 44px) / 3);\n      }\n    }\n    @media (max-width: 800px) {\n      .mysuru-topper-card {\n        flex: 0 0 calc((100% - 22px) / 2);\n      }\n    }\n    @media (max-width: 600px) {\n      .mysuru-topper-card {\n        flex: 0 0 82%;\n        min-width: 230px;\n      }\n      .mysuru-arrow-btn {\n        width: 44px;\n        height: 44px;\n        flex: 0 0 44px;\n      }\n    }\n  </style>\n  <div class=\"mysuru-results-carousel-wrapper\">\n    <button type=\"button\" class=\"mysuru-arrow-btn\" aria-label=\"Previous Topper\" onclick=\"this.closest('.mysuru-results-carousel-container').querySelector('.mysuru-results-track').scrollBy({left: -300, behavior: 'smooth'})\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_arrow_left.png\" alt=\"Prev\" />\n    </button>\n    <div class=\"mysuru-results-track\">\n      <!-- MYSURU TOPPER CARD 1 (Change image src to your student photo) -->\n      <div class=\"mysuru-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png\" alt=\"Mysuru Topper Card 1\" />\n      </div>\n      <!-- MYSURU TOPPER CARD 2 (Change image src to your student photo) -->\n      <div class=\"mysuru-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png\" alt=\"Mysuru Topper Card 2\" />\n      </div>\n      <!-- MYSURU TOPPER CARD 3 (Change image src to your student photo) -->\n      <div class=\"mysuru-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png\" alt=\"Mysuru Topper Card 3\" />\n      </div>\n      <!-- MYSURU TOPPER CARD 4 (Change image src to your student photo) -->\n      <div class=\"mysuru-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png\" alt=\"Mysuru Topper Card 4\" />\n      </div>\n      <!-- MYSURU TOPPER CARD 5 (Change image src to your student photo) -->\n      <div class=\"mysuru-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png\" alt=\"Mysuru Topper Card 5\" />\n      </div>\n      <!-- MYSURU TOPPER CARD 6 (Change image src to your student photo) -->\n      <div class=\"mysuru-topper-card\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_topper_card_full.png\" alt=\"Mysuru Topper Card 6\" />\n      </div>\n    </div>\n    <button type=\"button\" class=\"mysuru-arrow-btn\" aria-label=\"Next Topper\" onclick=\"this.closest('.mysuru-results-carousel-container').querySelector('.mysuru-results-track').scrollBy({left: 300, behavior: 'smooth'})\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_arrow_right.png\" alt=\"Next\" />\n    </button>\n  </div>\n</div>"
+              }
             },
             {
-              "id": "02dc71b",
+              "id": "my_res_btn",
               "elType": "widget",
               "widgetType": "button",
               "settings": {
-                "text": "Know More",
-                "link": {
-                  "url": "#",
-                  "is_external": false,
-                  "nofollow": false
-                },
+                "text": "Know More →",
                 "align": "center",
-                "size": "md",
-                "typography_typography": "custom",
-                "typography_font_family": "Inter",
-                "typography_font_size": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
+                "link": {
+                  "url": "#"
                 },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 0.95,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "typography_text_decoration": "none",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "button_text_color": "#E58D4D",
-                "hover_color": "#FFFFFF",
-                "background_color": "#00000000",
-                "button_background_hover_color": "#E58D4D",
-                "button_hover_border_color": "#E58D4D",
-                "border_border": "solid",
-                "border_width": {
-                  "unit": "em",
-                  "top": "0.125",
-                  "right": "0.125",
-                  "bottom": "0.125",
-                  "left": "0.125",
-                  "isLinked": false
-                },
-                "border_color": "#E58D4D",
+                "background_color": "#000000",
+                "button_text_color": "#FFFFFF",
                 "border_radius": {
-                  "unit": "em",
-                  "top": "2.1875",
-                  "right": "2.1875",
-                  "bottom": "2.1875",
-                  "left": "2.1875",
-                  "isLinked": false
-                },
-                "text_padding": {
-                  "unit": "em",
-                  "top": "0.85",
-                  "right": "1.65",
-                  "bottom": "0.85",
-                  "left": "1.65",
-                  "isLinked": false
-                },
-                "css_classes": "mysuru-btn-pill mysuru-btn-orange",
-                "_css_classes": "mysuru-btn-pill mysuru-btn-orange"
-              },
-              "elements": []
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30"
+                }
+              }
             }
           ]
         }
@@ -3563,7 +3256,7 @@
         "background_background": "classic",
         "background_color": "#F5DEC4",
         "background_image": {
-          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_explore_bg.png",
+          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_explore_bg.png",
           "id": 259
         },
         "background_position": "center center",
@@ -3745,41 +3438,32 @@
                   "sizes": []
                 },
                 "typography_font_weight": "400",
-                "typography_text_decoration": "none",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
                 "button_text_color": "#E58D4D",
-                "hover_color": "#FFFFFF",
                 "background_color": "#00000000",
-                "button_background_hover_color": "#E58D4D",
-                "button_hover_border_color": "#E58D4D",
                 "border_border": "solid",
                 "border_width": {
                   "unit": "em",
-                  "top": "0.125",
-                  "right": "0.125",
-                  "bottom": "0.125",
-                  "left": "0.125",
+                  "top": "0.0625",
+                  "right": "0.0625",
+                  "bottom": "0.0625",
+                  "left": "0.0625",
                   "isLinked": false
                 },
                 "border_color": "#E58D4D",
                 "border_radius": {
                   "unit": "em",
-                  "top": "2.1875",
-                  "right": "2.1875",
-                  "bottom": "2.1875",
-                  "left": "2.1875",
+                  "top": "2.2",
+                  "right": "2.2",
+                  "bottom": "2.2",
+                  "left": "2.2",
                   "isLinked": false
                 },
                 "text_padding": {
                   "unit": "em",
                   "top": "0.85",
-                  "right": "1.65",
+                  "right": "1.85",
                   "bottom": "0.85",
-                  "left": "1.65",
+                  "left": "1.85",
                   "isLinked": false
                 },
                 "css_classes": "mysuru-btn-pill mysuru-btn-orange",
@@ -3818,8 +3502,8 @@
               "widgetType": "image",
               "settings": {
                 "image": {
-                  "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_explore_students.png",
-                  "id": 260
+                  "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_explore_students.png",
+                  "id": ""
                 },
                 "image_size": "full",
                 "align": "right",
@@ -3846,7 +3530,7 @@
       ]
     },
     {
-      "id": "02dc731",
+      "id": "02dc739",
       "elType": "section",
       "isInner": false,
       "settings": {
@@ -3882,449 +3566,73 @@
       },
       "elements": [
         {
-          "id": "02dc730",
+          "id": "my_evt_col_1",
           "elType": "column",
-          "isInner": false,
           "settings": {
-            "_column_size": 100,
-            "_inline_size": 100,
-            "align": "center"
+            "_column_size": 100
           },
           "elements": [
             {
-              "id": "02dc725",
+              "id": "my_evt_heading",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
                 "title": "EVENTS",
-                "header_size": "h2",
                 "align": "center",
+                "header_size": "h2",
                 "title_color": "#E58D4D",
                 "typography_typography": "custom",
                 "typography_font_family": "Georgia",
                 "typography_font_size": {
-                  "unit": "em",
-                  "size": 2.5,
-                  "sizes": []
+                  "unit": "px",
+                  "size": 40
                 },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 2.2,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 2,
-                  "sizes": []
-                },
-                "typography_font_weight": "700",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1.2,
-                  "sizes": []
-                },
-                "_margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "0.75",
-                  "left": "0",
-                  "isLinked": false
-                }
-              },
-              "elements": []
+                "typography_font_weight": "700"
+              }
             },
             {
-              "id": "02dc726",
+              "id": "my_evt_desc",
               "elType": "widget",
               "widgetType": "text-editor",
               "settings": {
-                "editor": "<p style=\"margin:0;\">From academic achievements and cultural celebrations to sports victories, student-led initiatives and inspiring guest sessions, our campus is always alive with energy, creativity and talent. Dive into the experiences that define student life at RVPU Mysuru.</p>",
-                "align": "center",
-                "text_color": "#000000",
-                "typography_typography": "custom",
-                "typography_font_family": "Inter",
-                "typography_font_size": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1.38,
-                  "sizes": []
-                },
-                "_margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "3.25",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "_margin_tablet": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "2",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "_margin_mobile": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1.5",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "css_classes": "mysuru-events-subtitle",
-                "_css_classes": "mysuru-events-subtitle"
-              },
-              "elements": []
+                "editor": "<p style=\"text-align: center; color: #000000; font-family: Inter, sans-serif; font-size: 18px; max-width: 900px; margin: 0 auto 20px auto;\">From academic achievements and cultural celebrations to sports victories, student-led initiatives and inspiring guest sessions, our campus is always alive with energy, creativity and talent. Dive into the experiences that define student life at RVPU Mysuru.</p>"
+              }
             },
             {
-              "id": "02dc72e",
-              "elType": "section",
-              "isInner": true,
+              "id": "my_evt_carousel_html",
+              "elType": "widget",
+              "widgetType": "html",
               "settings": {
-                "layout": "full_width",
-                "gap": "no",
-                "content_position": "middle",
-                "margin": {
-                  "unit": "em",
-                  "top": "0",
-                  "right": "0",
-                  "bottom": "1.5",
-                  "left": "0",
-                  "isLinked": false
-                },
-                "css_classes": "mysuru-events-slider-row"
-              },
-              "elements": [
-                {
-                  "id": "02dc728",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 5.5,
-                    "_inline_size": 5.5,
-                    "_inline_size_tablet": 10,
-                    "_inline_size_mobile": 14,
-                    "sizeTablet": 10,
-                    "sizeMobile": 14,
-                    "content_position": "center",
-                    "align": "left",
-                    "css_classes": "mysuru-slider-arrow-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "02dc727",
-                      "elType": "widget",
-                      "widgetType": "image",
-                      "settings": {
-                        "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_arrow_left.png",
-                          "id": 247
-                        },
-                        "image_size": "full",
-                        "align": "left",
-                        "css_classes": "mysuru-arrow-btn mysuru-events-prev mysuru-asset-mysuru_arrow_left",
-                        "_css_classes": "mysuru-arrow-btn mysuru-events-prev mysuru-asset-mysuru_arrow_left"
-                      },
-                      "elements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "02dc72b",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 89,
-                    "_inline_size": 89,
-                    "_inline_size_tablet": 80,
-                    "_inline_size_mobile": 72,
-                    "sizeTablet": 80,
-                    "sizeMobile": 72,
-                    "padding": {
-                      "unit": "em",
-                      "top": "0",
-                      "right": "0.55",
-                      "bottom": "0",
-                      "left": "0.55",
-                      "isLinked": false
-                    },
-                    "padding_tablet": {
-                      "unit": "em",
-                      "top": "0",
-                      "right": "0.5",
-                      "bottom": "0",
-                      "left": "0.5",
-                      "isLinked": false
-                    },
-                    "padding_mobile": {
-                      "unit": "em",
-                      "top": "0",
-                      "right": "0.25",
-                      "bottom": "0",
-                      "left": "0.25",
-                      "isLinked": false
-                    },
-                    "css_classes": "mysuru-events-carousel-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "02dc729",
-                      "elType": "widget",
-                      "widgetType": "image-carousel",
-                      "settings": {
-                        "carousel": [
-                          {
-                            "id": 253,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_center.png"
-                          },
-                          {
-                            "id": 253,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_center.png"
-                          },
-                          {
-                            "id": 253,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_center.png"
-                          },
-                          {
-                            "id": 253,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_center.png"
-                          },
-                          {
-                            "id": 253,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_center.png"
-                          },
-                          {
-                            "id": 253,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_center.png"
-                          },
-                          {
-                            "id": 253,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_center.png"
-                          },
-                          {
-                            "id": 253,
-                            "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_center.png"
-                          }
-                        ],
-                        "thumbnail_size": "full",
-                        "slides_to_show": "5",
-                        "slides_to_show_tablet": "3",
-                        "slides_to_show_mobile": "1",
-                        "slides_to_scroll": "1",
-                        "image_stretch": "no",
-                        "navigation": "none",
-                        "autoplay": "yes",
-                        "pause_on_hover": "yes",
-                        "pause_on_interaction": "yes",
-                        "autoplay_speed": 3000,
-                        "infinite": "yes",
-                        "speed": 600,
-                        "image_spacing": "custom",
-                        "image_spacing_custom": {
-                          "unit": "px",
-                          "size": 18,
-                          "sizes": []
-                        },
-                        "css_classes": "mysuru-events-carousel",
-                        "_css_classes": "mysuru-events-carousel"
-                      },
-                      "elements": []
-                    },
-                    {
-                      "id": "02dc72a",
-                      "elType": "widget",
-                      "widgetType": "text-editor",
-                      "settings": {
-                        "editor": "<div class=\"mysuru-events-dots\"><span class=\"mysuru-event-dot active\" data-idx=\"0\"></span><span class=\"mysuru-event-dot\" data-idx=\"1\"></span><span class=\"mysuru-event-dot\" data-idx=\"2\"></span><span class=\"mysuru-event-dot\" data-idx=\"3\"></span></div>",
-                        "align": "center",
-                        "text_color": "#252525",
-                        "typography_typography": "custom",
-                        "typography_font_family": "Inter",
-                        "typography_font_size": {
-                          "unit": "em",
-                          "size": 1,
-                          "sizes": []
-                        },
-                        "typography_font_size_tablet": {
-                          "unit": "em",
-                          "size": 1,
-                          "sizes": []
-                        },
-                        "typography_font_size_mobile": {
-                          "unit": "em",
-                          "size": 1,
-                          "sizes": []
-                        },
-                        "typography_font_weight": "400",
-                        "typography_line_height": {
-                          "unit": "em",
-                          "size": 1.45,
-                          "sizes": []
-                        },
-                        "_margin": {
-                          "unit": "em",
-                          "top": "-1.45",
-                          "right": "0",
-                          "bottom": "0",
-                          "left": "0",
-                          "isLinked": false
-                        },
-                        "_margin_tablet": {
-                          "unit": "em",
-                          "top": "1",
-                          "right": "0",
-                          "bottom": "0",
-                          "left": "0",
-                          "isLinked": false
-                        },
-                        "_margin_mobile": {
-                          "unit": "em",
-                          "top": "1",
-                          "right": "0",
-                          "bottom": "0",
-                          "left": "0",
-                          "isLinked": false
-                        },
-                        "css_classes": "mysuru-events-dots-widget",
-                        "_css_classes": "mysuru-events-dots-widget"
-                      },
-                      "elements": []
-                    }
-                  ]
-                },
-                {
-                  "id": "02dc72d",
-                  "elType": "column",
-                  "isInner": true,
-                  "settings": {
-                    "_column_size": 5.5,
-                    "_inline_size": 5.5,
-                    "_inline_size_tablet": 10,
-                    "_inline_size_mobile": 14,
-                    "sizeTablet": 10,
-                    "sizeMobile": 14,
-                    "content_position": "center",
-                    "align": "right",
-                    "css_classes": "mysuru-slider-arrow-col"
-                  },
-                  "elements": [
-                    {
-                      "id": "02dc72c",
-                      "elType": "widget",
-                      "widgetType": "image",
-                      "settings": {
-                        "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_arrow_right.png",
-                          "id": 248
-                        },
-                        "image_size": "full",
-                        "align": "right",
-                        "css_classes": "mysuru-arrow-btn mysuru-events-next mysuru-asset-mysuru_arrow_right",
-                        "_css_classes": "mysuru-arrow-btn mysuru-events-next mysuru-asset-mysuru_arrow_right"
-                      },
-                      "elements": []
-                    }
-                  ]
-                }
-              ]
+                "html": "<div class=\"mysuru-events-carousel-wrap\">\n  <style>\n    .mysuru-events-carousel-wrap {\n      width: 100%;\n      max-width: 1400px;\n      margin: 0 auto;\n      text-align: center;\n      position: relative;\n      padding: 10px 0 20px 0;\n    }\n    .mysuru-events-carousel-wrapper {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      gap: 16px;\n      width: 100%;\n    }\n    .mysuru-evt-arrow-btn {\n      flex: 0 0 54px;\n      width: 54px;\n      height: 54px;\n      border-radius: 50%;\n      background: #E58D4D;\n      border: none;\n      cursor: pointer;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      transition: transform 0.2s ease, background 0.2s ease;\n      box-shadow: 0 4px 12px rgba(229, 141, 77, 0.35);\n      padding: 0;\n      z-index: 2;\n    }\n    .mysuru-evt-arrow-btn:hover {\n      transform: scale(1.08);\n      background: #d47c3c;\n    }\n    .mysuru-evt-arrow-btn img {\n      width: 16px;\n      height: 24px;\n      object-fit: contain;\n      display: block;\n    }\n    .mysuru-events-track {\n      display: flex;\n      gap: 20px;\n      overflow-x: auto;\n      scroll-snap-type: x mandatory;\n      scroll-behavior: smooth;\n      -webkit-overflow-scrolling: touch;\n      scrollbar-width: none;\n      padding: 15px 5px;\n      flex: 1;\n    }\n    .mysuru-events-track::-webkit-scrollbar {\n      display: none;\n    }\n    .mysuru-evt-panel {\n      flex: 0 0 280px;\n      height: 380px;\n      border-radius: 18px;\n      overflow: hidden;\n      scroll-snap-align: center;\n      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);\n      transition: transform 0.3s ease;\n      background: #FFFFFF;\n    }\n    .mysuru-evt-panel:hover {\n      transform: translateY(-8px);\n    }\n    .mysuru-evt-panel img {\n      width: 100%;\n      height: 100%;\n      object-fit: cover;\n      display: block;\n    }\n    @media (max-width: 1024px) {\n      .mysuru-evt-panel {\n        flex: 0 0 240px;\n        height: 320px;\n      }\n    }\n    @media (max-width: 640px) {\n      .mysuru-evt-panel {\n        flex: 0 0 80%;\n        height: 280px;\n      }\n      .mysuru-evt-arrow-btn {\n        width: 44px;\n        height: 44px;\n        flex: 0 0 44px;\n      }\n    }\n  </style>\n  <div class=\"mysuru-events-carousel-wrapper\">\n    <button type=\"button\" class=\"mysuru-evt-arrow-btn\" aria-label=\"Previous Event\" onclick=\"this.closest('.mysuru-events-carousel-wrap').querySelector('.mysuru-events-track').scrollBy({left: -300, behavior: 'smooth'})\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_arrow_left.png\" alt=\"Prev\" />\n    </button>\n    <div class=\"mysuru-events-track\">\n      <!-- MYSURU EVENT 1 (Change image src to your event photo) -->\n      <div class=\"mysuru-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_panel_1.png\" alt=\"Mysuru Event 1\" />\n      </div>\n      <!-- MYSURU EVENT 2 (Change image src to your event photo) -->\n      <div class=\"mysuru-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_panel_2.png\" alt=\"Mysuru Event 2\" />\n      </div>\n      <!-- MYSURU EVENT 3 - CENTER FEATURED (Change image src to your event photo) -->\n      <div class=\"mysuru-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_panel_3.png\" alt=\"Mysuru Event 3 (Center Featured)\" />\n      </div>\n      <!-- MYSURU EVENT 4 (Change image src to your event photo) -->\n      <div class=\"mysuru-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_panel_4.png\" alt=\"Mysuru Event 4\" />\n      </div>\n      <!-- MYSURU EVENT 5 (Change image src to your event photo) -->\n      <div class=\"mysuru-evt-panel\">\n        <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_event_panel_5.png\" alt=\"Mysuru Event 5\" />\n      </div>\n    </div>\n    <button type=\"button\" class=\"mysuru-evt-arrow-btn\" aria-label=\"Next Event\" onclick=\"this.closest('.mysuru-events-carousel-wrap').querySelector('.mysuru-events-track').scrollBy({left: 300, behavior: 'smooth'})\">\n      <img src=\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_arrow_right.png\" alt=\"Next\" />\n    </button>\n  </div>\n</div>"
+              }
             },
             {
-              "id": "02dc72f",
+              "id": "my_evt_btn",
               "elType": "widget",
               "widgetType": "button",
               "settings": {
-                "text": "Know More",
-                "link": {
-                  "url": "#",
-                  "is_external": false,
-                  "nofollow": false
-                },
+                "text": "Know More →",
                 "align": "center",
-                "size": "md",
-                "typography_typography": "custom",
-                "typography_font_family": "Inter",
-                "typography_font_size": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
+                "link": {
+                  "url": "#"
                 },
-                "typography_font_size_tablet": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "typography_font_size_mobile": {
-                  "unit": "em",
-                  "size": 0.95,
-                  "sizes": []
-                },
-                "typography_font_weight": "400",
-                "typography_text_decoration": "none",
-                "typography_line_height": {
-                  "unit": "em",
-                  "size": 1,
-                  "sizes": []
-                },
-                "button_text_color": "#E58D4D",
-                "hover_color": "#FFFFFF",
-                "background_color": "#00000000",
-                "button_background_hover_color": "#E58D4D",
-                "button_hover_border_color": "#E58D4D",
-                "border_border": "solid",
-                "border_width": {
-                  "unit": "em",
-                  "top": "0.125",
-                  "right": "0.125",
-                  "bottom": "0.125",
-                  "left": "0.125",
-                  "isLinked": false
-                },
-                "border_color": "#E58D4D",
+                "background_color": "#000000",
+                "button_text_color": "#FFFFFF",
                 "border_radius": {
-                  "unit": "em",
-                  "top": "2.1875",
-                  "right": "2.1875",
-                  "bottom": "2.1875",
-                  "left": "2.1875",
-                  "isLinked": false
-                },
-                "text_padding": {
-                  "unit": "em",
-                  "top": "0.85",
-                  "right": "1.65",
-                  "bottom": "0.85",
-                  "left": "1.65",
-                  "isLinked": false
-                },
-                "css_classes": "mysuru-btn-pill mysuru-btn-orange",
-                "_css_classes": "mysuru-btn-pill mysuru-btn-orange"
-              },
-              "elements": []
+                  "unit": "px",
+                  "top": "30",
+                  "right": "30",
+                  "bottom": "30",
+                  "left": "30"
+                }
+              }
             }
           ]
         }
       ]
     },
     {
-      "id": "02dc738",
+      "id": "02dc740",
       "elType": "section",
       "isInner": false,
       "settings": {
@@ -4334,7 +3642,7 @@
         "background_background": "classic",
         "background_color": "#F7EFE0",
         "background_image": {
-          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_tour_bg.png",
+          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_tour_bg.png",
           "id": 277
         },
         "background_position": "center center",
@@ -4368,7 +3676,7 @@
       },
       "elements": [
         {
-          "id": "02dc733",
+          "id": "02dc73b",
           "elType": "column",
           "isInner": false,
           "settings": {
@@ -4406,7 +3714,7 @@
           },
           "elements": [
             {
-              "id": "02dc732",
+              "id": "02dc73a",
               "elType": "widget",
               "widgetType": "heading",
               "settings": {
@@ -4445,7 +3753,7 @@
           ]
         },
         {
-          "id": "02dc737",
+          "id": "02dc73f",
           "elType": "column",
           "isInner": false,
           "settings": {
@@ -4486,7 +3794,7 @@
           },
           "elements": [
             {
-              "id": "02dc736",
+              "id": "02dc73e",
               "elType": "section",
               "isInner": true,
               "settings": {
@@ -4522,7 +3830,7 @@
               },
               "elements": [
                 {
-                  "id": "02dc735",
+                  "id": "02dc73d",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -4531,7 +3839,7 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc734",
+                      "id": "02dc73c",
                       "elType": "widget",
                       "widgetType": "spacer",
                       "settings": {
@@ -4552,7 +3860,7 @@
       ]
     },
     {
-      "id": "02dc75c",
+      "id": "02dc764",
       "elType": "section",
       "isInner": false,
       "settings": {
@@ -4588,7 +3896,7 @@
       },
       "elements": [
         {
-          "id": "02dc75b",
+          "id": "02dc763",
           "elType": "column",
           "isInner": false,
           "settings": {
@@ -4597,7 +3905,7 @@
           },
           "elements": [
             {
-              "id": "02dc745",
+              "id": "02dc74d",
               "elType": "section",
               "isInner": true,
               "settings": {
@@ -4616,7 +3924,7 @@
               },
               "elements": [
                 {
-                  "id": "02dc73b",
+                  "id": "02dc743",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -4638,13 +3946,13 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc739",
+                      "id": "02dc741",
                       "elType": "widget",
                       "widgetType": "image",
                       "settings": {
                         "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_footer_phone.png",
-                          "id": 263
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_footer_phone.png",
+                          "id": ""
                         },
                         "image_size": "full",
                         "align": "center",
@@ -4662,7 +3970,7 @@
                       "elements": []
                     },
                     {
-                      "id": "02dc73a",
+                      "id": "02dc742",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -4699,7 +4007,7 @@
                   ]
                 },
                 {
-                  "id": "02dc73e",
+                  "id": "02dc746",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -4721,13 +4029,13 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc73c",
+                      "id": "02dc744",
                       "elType": "widget",
                       "widgetType": "image",
                       "settings": {
                         "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_footer_email.png",
-                          "id": 261
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_footer_email.png",
+                          "id": ""
                         },
                         "image_size": "full",
                         "align": "center",
@@ -4745,11 +4053,11 @@
                       "elements": []
                     },
                     {
-                      "id": "02dc73d",
+                      "id": "02dc745",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
-                        "title": "<a href=\"mailto:info.rvpun@rvei.edu.in\" style=\"color:#F7F7F7;text-decoration:none;\">info.rvpun@rvei.edu.in</a>",
+                        "title": "<a href=\"mailto:info.rvpum@rvei.edu.in\" style=\"color:#F7F7F7;text-decoration:none;\">info.rvpum@rvei.edu.in</a>",
                         "header_size": "p",
                         "align": "center",
                         "title_color": "#F7F7F7",
@@ -4782,7 +4090,7 @@
                   ]
                 },
                 {
-                  "id": "02dc741",
+                  "id": "02dc749",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -4804,13 +4112,13 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc73f",
+                      "id": "02dc747",
                       "elType": "widget",
                       "widgetType": "image",
                       "settings": {
                         "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_footer_map.png",
-                          "id": 262
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_footer_map.png",
+                          "id": ""
                         },
                         "image_size": "full",
                         "align": "center",
@@ -4828,7 +4136,7 @@
                       "elements": []
                     },
                     {
-                      "id": "02dc740",
+                      "id": "02dc748",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -4865,7 +4173,7 @@
                   ]
                 },
                 {
-                  "id": "02dc744",
+                  "id": "02dc74c",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -4887,13 +4195,13 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc742",
+                      "id": "02dc74a",
                       "elType": "widget",
                       "widgetType": "image",
                       "settings": {
                         "image": {
-                          "url": "https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_footer_privacy.png",
-                          "id": 264
+                          "url": "http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_footer_privacy.png",
+                          "id": ""
                         },
                         "image_size": "full",
                         "align": "center",
@@ -4911,7 +4219,7 @@
                       "elements": []
                     },
                     {
-                      "id": "02dc743",
+                      "id": "02dc74b",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -4950,7 +4258,7 @@
               ]
             },
             {
-              "id": "02dc746",
+              "id": "02dc74e",
               "elType": "widget",
               "widgetType": "divider",
               "settings": {
@@ -4984,7 +4292,7 @@
               "elements": []
             },
             {
-              "id": "02dc753",
+              "id": "02dc75b",
               "elType": "section",
               "isInner": true,
               "settings": {
@@ -5003,7 +4311,7 @@
               },
               "elements": [
                 {
-                  "id": "02dc749",
+                  "id": "02dc751",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -5024,7 +4332,7 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc747",
+                      "id": "02dc74f",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -5067,11 +4375,11 @@
                       "elements": []
                     },
                     {
-                      "id": "02dc748",
+                      "id": "02dc750",
                       "elType": "widget",
                       "widgetType": "text-editor",
                       "settings": {
-                        "editor": "<p style=\"margin:0 0 0.85em 0;\"><a href=\"#\" style=\"color:#FAFBFB;text-decoration:none;\">About RV PU North</a></p><p style=\"margin:0 0 0.85em 0;\"><a href=\"#\" style=\"color:#FAFBFB;text-decoration:none;\">Course</a></p><p style=\"margin:0;\"><a href=\"#\" style=\"color:#FAFBFB;text-decoration:none;\">Terms &amp; Conditions</a></p>",
+                        "editor": "<p style=\"margin:0 0 0.85em 0;\"><a href=\"#\" style=\"color:#FAFBFB;text-decoration:none;\">About RV PU Mysuru</a></p><p style=\"margin:0 0 0.85em 0;\"><a href=\"#\" style=\"color:#FAFBFB;text-decoration:none;\">Course</a></p><p style=\"margin:0;\"><a href=\"#\" style=\"color:#FAFBFB;text-decoration:none;\">Terms &amp; Conditions</a></p>",
                         "align": "left",
                         "text_color": "#FAFBFB",
                         "typography_typography": "custom",
@@ -5105,7 +4413,7 @@
                   ]
                 },
                 {
-                  "id": "02dc74c",
+                  "id": "02dc754",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -5126,7 +4434,7 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc74a",
+                      "id": "02dc752",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -5169,11 +4477,11 @@
                       "elements": []
                     },
                     {
-                      "id": "02dc74b",
+                      "id": "02dc753",
                       "elType": "widget",
                       "widgetType": "text-editor",
                       "settings": {
-                        "editor": "<p style=\"margin:0;\">DPS Bengaluru North<br>Campus, Survey No. 35/1A,<br>Sathnur Village, Bagalur Post,<br>Off Bellary Road, Jalla Hobli,<br>Bengaluru - 562149,<br>Karnataka, India</p>",
+                        "editor": "<p style=\"margin:0;\">DPS Mysuru Campus,<br>Survey No. 119/1, Bannur Road,<br>Shakthinagar, Bugathagalli,<br>Mysuru - 570028,<br>Karnataka, India</p>",
                         "align": "left",
                         "text_color": "#FAFBFB",
                         "typography_typography": "custom",
@@ -5205,7 +4513,7 @@
                   ]
                 },
                 {
-                  "id": "02dc74f",
+                  "id": "02dc757",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -5226,7 +4534,7 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc74d",
+                      "id": "02dc755",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -5269,7 +4577,7 @@
                       "elements": []
                     },
                     {
-                      "id": "02dc74e",
+                      "id": "02dc756",
                       "elType": "widget",
                       "widgetType": "text-editor",
                       "settings": {
@@ -5305,7 +4613,7 @@
                   ]
                 },
                 {
-                  "id": "02dc752",
+                  "id": "02dc75a",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -5326,7 +4634,7 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc750",
+                      "id": "02dc758",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -5369,7 +4677,7 @@
                       "elements": []
                     },
                     {
-                      "id": "02dc751",
+                      "id": "02dc759",
                       "elType": "widget",
                       "widgetType": "text-editor",
                       "settings": {
@@ -5407,7 +4715,7 @@
               ]
             },
             {
-              "id": "02dc754",
+              "id": "02dc75c",
               "elType": "widget",
               "widgetType": "divider",
               "settings": {
@@ -5441,7 +4749,7 @@
               "elements": []
             },
             {
-              "id": "02dc759",
+              "id": "02dc761",
               "elType": "section",
               "isInner": true,
               "settings": {
@@ -5452,7 +4760,7 @@
               },
               "elements": [
                 {
-                  "id": "02dc756",
+                  "id": "02dc75e",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -5465,7 +4773,7 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc755",
+                      "id": "02dc75d",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -5504,7 +4812,7 @@
                   ]
                 },
                 {
-                  "id": "02dc758",
+                  "id": "02dc760",
                   "elType": "column",
                   "isInner": true,
                   "settings": {
@@ -5517,7 +4825,7 @@
                   },
                   "elements": [
                     {
-                      "id": "02dc757",
+                      "id": "02dc75f",
                       "elType": "widget",
                       "widgetType": "heading",
                       "settings": {
@@ -5560,11 +4868,13 @@
               ]
             },
             {
-              "id": "02dc75a",
+              "id": "mysuru_runtime_helper_widget",
               "elType": "widget",
               "widgetType": "html",
               "settings": {
-                "html": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap\" rel=\"stylesheet\">\n<style>\n/* === GLOBAL RESET & PROPORTIONAL DESKTOP SCALING (1920px = 120em -> 1em = 16px) === */\nhtml, body {\n  margin: 0 !important;\n  padding: 0 !important;\n  overflow-x: hidden !important;\n  max-width: 100% !important;\n  background: #FFFFFF;\n}\n.mysuru-results-carousel .swiper,\n.mysuru-results-carousel .swiper-wrapper,\n.mysuru-results-carousel .swiper-slide,\n.mysuru-events-carousel .swiper,\n.mysuru-events-carousel .swiper-wrapper,\n.mysuru-events-carousel .swiper-slide {\n  opacity: 1 !important;\n  visibility: visible !important;\n}\n.elementor {\n  font-size: 16px;\n}\n@media (min-width: 1025px) {\n  .elementor {\n    font-size: calc(100vw / 120) !important;\n  }\n}\n.elementor-widget:not(:last-child) {\n  margin-bottom: 0 !important;\n}\n.elementor-column-gap-default > .elementor-column > .elementor-element-populated,\n.elementor-column-gap-no > .elementor-column > .elementor-element-populated {\n  padding: 0;\n}\n\n/* === SECTION 1: HEADER BAR (1920x167px = 120em x 10.4375em) === */\n.mysuru-logo-img img {\n  width: 16.0625em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block;\n}\n.mysuru-header-menu-col {\n  cursor: pointer;\n}\n.mysuru-menu-bar .elementor-divider-separator {\n  border-radius: 0.35em !important;\n}\n\n/* === SECTION 2: HERO VIDEO BANNER (1920x531px = 120em x 33.1875em) === */\n.mysuru-play-btn-widget img {\n  width: 10.375em !important;\n  height: 10.375em !important;\n  cursor: pointer;\n  transition: transform 0.25s ease;\n}\n.mysuru-play-btn-widget img:hover {\n  transform: scale(1.06);\n}\n\n/* === ORANGE PILL BUTTONS (183x60px = 11.4375em x 3.75em, #E58D4D) & ZERO-UNDERLINE LINKS === */\n.elementor a,\n.elementor a:hover,\n.elementor a:focus,\n.elementor a:active,\n.elementor a:visited,\n.mysuru-btn-pill a,\n.mysuru-btn-pill .elementor-button,\n.mysuru-btn-pill .elementor-button:hover,\n.mysuru-btn-pill .elementor-button:focus,\n.mysuru-btn-pill .elementor-button:active,\n.mysuru-btn-pill .elementor-button-content-wrapper,\n.mysuru-btn-pill .elementor-button-text {\n  text-decoration: none !important;\n  text-decoration-line: none !important;\n  border-bottom: none !important;\n  box-shadow: none !important;\n  outline: none !important;\n}\n.mysuru-btn-pill .elementor-button {\n  width: 11.4375em !important;\n  min-width: 11.4375em !important;\n  max-width: 11.4375em !important;\n  height: 3.75em !important;\n  min-height: 3.75em !important;\n  max-height: 3.75em !important;\n  display: inline-flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  padding: 0 1.4em !important;\n  border: 0.125em solid #E58D4D !important;\n  border-radius: 2.1875em !important;\n  background-color: transparent !important;\n  color: #E58D4D !important;\n  font-family: 'Inter', sans-serif !important;\n  font-size: 1.0em !important;\n  font-weight: 400 !important;\n  line-height: 1 !important;\n  transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease !important;\n  box-sizing: border-box !important;\n}\n.mysuru-btn-pill .elementor-button-content-wrapper {\n  display: inline-flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  width: 100% !important;\n  height: 100% !important;\n}\n.mysuru-btn-pill .elementor-button-text {\n  display: inline-flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  gap: 0.85em !important;\n  line-height: 1 !important;\n  white-space: nowrap !important;\n}\n.mysuru-btn-orange .elementor-button-text::after {\n  content: '' !important;\n  display: inline-block !important;\n  width: 1.15em !important;\n  height: 0.95em !important;\n  background-color: currentColor !important;\n  -webkit-mask: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 16'%3E%3Cpath d='M12 1.5L18.5 8L12 14.5M1.5 8H18' stroke='black' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") no-repeat center / contain !important;\n  mask: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 16'%3E%3Cpath d='M12 1.5L18.5 8L12 14.5M1.5 8H18' stroke='black' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") no-repeat center / contain !important;\n  flex-shrink: 0 !important;\n  transform: none !important;\n}\n.mysuru-btn-orange .elementor-button:hover,\n.mysuru-btn-orange .elementor-button:focus {\n  background-color: #E58D4D !important;\n  color: #FFFFFF !important;\n  border-color: #E58D4D !important;\n}\n\n/* === SECTION 3: WELCOME TO RV PU COLLEGE, MYSURU (1920x600px = 120em x 37.5em) === */\n.mysuru-welcome-section > .elementor-container {\n  display: flex !important;\n  align-items: stretch !important;\n}\n.mysuru-welcome-body {\n  max-width: 55.5625em;\n}\n.mysuru-welcome-campus-img img {\n  width: 100% !important;\n  height: 37.5em !important;\n  object-fit: cover !important;\n  display: block !important;\n}\n\n/* === SECTION 4A & 4B: ADMISSIONS OPEN 2026-2027 === */\n.mysuru-adm-orange-box {\n  background: #E58D4D;\n  color: #FFFFFF;\n  font-family: 'Inter', sans-serif;\n  font-weight: 700;\n  padding: 0.04em 0.36em;\n  display: inline-block;\n  margin-left: 0.25em;\n  line-height: 1.15;\n}\n.mysuru-adm-enquiries-row {\n  max-width: 66em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-adm-contact-col > .elementor-widget-wrap,\n.mysuru-adm-contact-col > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  flex-direction: row !important;\n  align-items: center !important;\n  justify-content: center !important;\n  flex-wrap: nowrap !important;\n  gap: 0.65em;\n}\n.mysuru-adm-icon-widget {\n  width: auto !important;\n  margin-bottom: 0 !important;\n}\n.mysuru-adm-icon-widget img {\n  width: 2.3125em !important;\n  height: 2.3125em !important;\n  object-fit: contain !important;\n  display: block !important;\n}\n.mysuru-adm-contact-text {\n  width: auto !important;\n  margin-bottom: 0 !important;\n}\n\n/* === SECTION 5: COURSES OFFERED (1920x841px = 120em x 52.5625em) === */\n.mysuru-courses-top-grid {\n  max-width: 101.6875em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-course-card {\n  min-height: 10.3125em;\n  box-shadow: 0 0.25em 0.65em rgba(0, 0, 0, 0.22);\n  box-sizing: border-box !important;\n}\n.mysuru-course-card > .elementor-container {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-course-icon-box {\n  width: 3.625em !important;\n  min-width: 3.625em !important;\n  max-width: 3.625em !important;\n  height: 3.25em !important;\n  border-radius: 0.3125em !important;\n  background: #FFFFFF !important;\n  display: flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  flex-shrink: 0 !important;\n}\n.mysuru-course-icon-box > .elementor-widget-wrap,\n.mysuru-course-icon-box > .elementor-column-wrap,\n.mysuru-course-icon-box > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  width: 100% !important;\n  height: 100% !important;\n  padding: 0 !important;\n}\n.mysuru-course-icon-widget img {\n  width: 1.9em !important;\n  height: 2.0em !important;\n  object-fit: contain !important;\n  display: block !important;\n  margin: 0 auto !important;\n}\n.mysuru-course-code-wrap {\n  display: flex;\n  align-items: center;\n  width: 100%;\n  gap: 0.55em;\n}\n.mysuru-course-code-text {\n  flex-shrink: 0;\n}\n.mysuru-course-dotted-line {\n  flex: 1 1 auto;\n  display: flex;\n  align-items: center;\n  min-width: 3em;\n}\n.mysuru-line-dot {\n  width: 0.35em;\n  height: 0.35em;\n  border-radius: 50%;\n  background: #FFFFFF;\n  flex-shrink: 0;\n}\n.mysuru-line-bar {\n  flex: 1 1 auto;\n  height: 0.0625em;\n  background: rgba(255, 255, 255, 0.9);\n}\n.mysuru-course-subjects-row {\n  display: grid;\n  grid-template-columns: repeat(4, auto);\n  align-items: start;\n  justify-content: space-between;\n  gap: 0.5em;\n  width: 100%;\n}\n.mysuru-course-subject {\n  display: inline-flex;\n  align-items: flex-start;\n  gap: 0.35em;\n  color: #FFFFFF;\n  font-family: 'Inter', sans-serif;\n  font-size: 1.0em;\n  line-height: 1.22;\n  text-align: left;\n}\n.mysuru-tri {\n  font-size: 0.85em;\n  line-height: 1.3;\n  flex-shrink: 0;\n}\n.mysuru-courses-mascot-col {\n  position: relative;\n  z-index: 6;\n}\n.mysuru-courses-mascot-widget img {\n  width: 21.3125em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block !important;\n  margin: 0 auto !important;\n}\n.mysuru-course-card-seba {\n  width: 38.6875em !important;\n  max-width: 100% !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n  position: relative;\n  z-index: 4;\n}\n@media (min-width: 1025px) {\n  .mysuru-course-card-seba {\n    margin-top: -1.65em !important;\n  }\n}\n\n/* === SECTION 6: RESULTS (5-CARD STAGGERED CAROUSEL) === */\n.mysuru-results-slider-row > .elementor-container,\n.mysuru-events-slider-row > .elementor-container,\n.mysuru-tour-section > .elementor-container {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-results-carousel-col {\n  min-width: 0 !important;\n}\n.mysuru-slider-arrow-col,\n.mysuru-slider-arrow-col > .elementor-widget-wrap,\n.mysuru-slider-arrow-col > .elementor-column-wrap,\n.mysuru-slider-arrow-col > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-arrow-btn img {\n  width: 5.875em !important;\n  height: 5.5625em !important;\n  max-width: none !important;\n  cursor: pointer;\n  transition: transform 0.2s ease;\n  display: block !important;\n}\n.mysuru-arrow-btn img:hover {\n  transform: scale(1.06);\n}\n.mysuru-results-carousel,\n.mysuru-results-carousel > .elementor-widget-container {\n  width: 100% !important;\n}\n.mysuru-results-carousel .swiper-wrapper {\n  align-items: flex-start !important;\n}\n.mysuru-results-carousel .swiper-slide {\n  transition: margin-top 520ms cubic-bezier(0.22, 1, 0.36, 1);\n}\n@media (min-width: 1025px) {\n  .mysuru-footer-copyright-right .elementor-heading-title {\n    white-space: nowrap;\n  }\n}\n.mysuru-results-carousel .swiper-slide img {\n  width: 100% !important;\n  max-width: 17.6875em !important;\n  height: auto !important;\n  margin: 0 auto !important;\n  display: block !important;\n}\n\n/* === SECTION 7: EXPLORE OUR VARIOUS CAMPUSES! (1920x600px = 120em x 37.5em) === */\n.mysuru-explore-section {\n  min-height: 37.5em;\n  overflow: hidden;\n}\n.mysuru-explore-body {\n  max-width: 67.3em;\n}\n.mysuru-explore-students-img img {\n  width: 44.75em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block !important;\n  margin-left: auto !important;\n}\n\n/* === SECTION 8: EVENTS (5-SLIDE COVERFLOW CAROUSEL + DOTS) === */\n.mysuru-events-subtitle {\n  max-width: 69.5em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-events-slider-row > .elementor-container {\n  align-items: flex-start !important;\n}\n.mysuru-events-slider-row .mysuru-slider-arrow-col {\n  align-self: center !important;\n}\n.mysuru-events-carousel-col {\n  min-width: 0 !important;\n}\n.mysuru-events-carousel,\n.mysuru-events-carousel > .elementor-widget-container {\n  width: 100% !important;\n}\n.mysuru-events-carousel .swiper-wrapper {\n  align-items: flex-start !important;\n}\n.mysuru-events-carousel .swiper-slide {\n  position: relative !important;\n  overflow: hidden !important;\n  box-sizing: border-box !important;\n}\n.mysuru-events-carousel .swiper-slide figure,\n.mysuru-events-carousel .swiper-slide .swiper-slide-inner {\n  margin: 0 !important;\n  padding: 0 !important;\n  width: 100% !important;\n  height: 100% !important;\n  display: block !important;\n  position: relative !important;\n}\n.mysuru-events-carousel .swiper-slide .swiper-slide-inner::after {\n  content: '';\n  position: absolute;\n  inset: 0;\n  background: rgba(37, 37, 37, 0.56);\n  pointer-events: none;\n  transition: opacity 520ms cubic-bezier(0.22, 1, 0.36, 1);\n  opacity: 1;\n}\n.mysuru-events-carousel .swiper-slide.mysuru-event-pos-2 .swiper-slide-inner::after {\n  opacity: 0 !important;\n}\n.mysuru-events-carousel .swiper-slide img {\n  width: 100% !important;\n  height: 36.0625em !important;\n  object-fit: cover !important;\n  object-position: 50% center !important;\n  display: block !important;\n  transition: height 520ms cubic-bezier(0.22, 1, 0.36, 1), object-position 520ms ease;\n}\n.mysuru-events-carousel .swiper-slide.mysuru-event-pos-0 img,\n.mysuru-events-carousel .swiper-slide.mysuru-event-pos-3 img {\n  object-position: 54% center !important;\n}\n.mysuru-events-carousel .swiper-slide.mysuru-event-pos-1 img,\n.mysuru-events-carousel .swiper-slide.mysuru-event-pos-4 img {\n  object-position: 18% center !important;\n}\n.mysuru-events-carousel .swiper-slide.mysuru-event-pos-2 img {\n  height: 35.5em !important;\n  object-position: 50% center !important;\n}\n@media (max-width: 1024px) {\n  .mysuru-events-carousel .swiper-slide img,\n  .mysuru-events-carousel .swiper-slide.mysuru-event-pos-2 img {\n    height: 22em !important;\n  }\n}\n@media (max-width: 767px) {\n  .mysuru-events-carousel .swiper-slide img,\n  .mysuru-events-carousel .swiper-slide.mysuru-event-pos-2 img {\n    height: 19em !important;\n  }\n}\n.mysuru-events-dots-widget {\n  position: relative;\n  z-index: 5;\n}\n.mysuru-events-dots {\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  gap: 0.65em;\n}\n.mysuru-event-dot {\n  width: 1.15em;\n  height: 1.15em;\n  border-radius: 50%;\n  border: 0.0625em solid #252525;\n  background: transparent;\n  cursor: pointer;\n  display: inline-block;\n  transition: background-color 0.2s ease, border-color 0.2s ease;\n}\n.mysuru-event-dot.active {\n  background: #8E8E8E;\n  border-color: #8E8E8E;\n}\n\n/* === SECTION 10: FOOTER (1920x746px = 120em x 46.625em) === */\n.mysuru-footer-top-icons {\n  max-width: 58em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-footer-icon-phone img {\n  width: 5.3125em !important;\n  height: 5.3125em !important;\n  object-fit: contain !important;\n}\n.mysuru-footer-icon-std img {\n  width: 4.5em !important;\n  height: 4.5em !important;\n  object-fit: contain !important;\n}\n.mysuru-subscribe-form {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  background: #6F6F6F;\n  border-radius: 1.9375em;\n  height: 3.875em;\n  padding: 0 1.4em;\n  width: 100%;\n  max-width: 24.25em;\n  box-sizing: border-box;\n}\n.mysuru-subscribe-input {\n  background: transparent !important;\n  border: none !important;\n  outline: none !important;\n  color: #FFFFFF !important;\n  font-family: 'Inter', sans-serif;\n  font-size: 1.15em;\n  width: 100%;\n}\n.mysuru-subscribe-input::placeholder {\n  color: #FFFFFF;\n  opacity: 0.95;\n}\n.mysuru-subscribe-submit {\n  background: transparent !important;\n  border: none !important;\n  color: #FFFFFF !important;\n  font-size: 1.15em;\n  cursor: pointer;\n  padding: 0.25em 0 0.25em 0.75em;\n}\n.mysuru-social-dots {\n  display: flex;\n  align-items: center;\n  gap: 0.4375em;\n  flex-wrap: nowrap;\n}\n.mysuru-social-circle {\n  width: 3.125em;\n  height: 3.125em;\n  border-radius: 50%;\n  background: #FFFFFF;\n  display: inline-block;\n  flex-shrink: 0;\n  transition: transform 0.2s ease, background-color 0.2s ease;\n}\n.mysuru-social-circle:hover {\n  transform: translateY(-0.2em);\n  background: #E58D4D;\n}\n\n/* === BULLETPROOF BACKGROUND IMAGE FALLBACKS (FOR CROSS-SITE ELEMENTOR JSON IMPORT) === */\n.mysuru-welcome-left-col:not(.elementor-motion-effects-element-type-background),\n.mysuru-welcome-left-col > .elementor-element-populated,\n.mysuru-welcome-left-col > .elementor-widget-wrap {\n  background-image: url(\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_welcome_left_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-admissions-section {\n  background-color: #323130 !important;\n  background-image: url(\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_admissions_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-courses-section {\n  background-color: #F6ECDC !important;\n  background-image: url(\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n/* === COURSES OFFERED: DESKTOP & MOBILE RESPONSIVE SWITCHING === */\n@media (min-width: 1025px) {\n  .mysuru-courses-desktop-section {\n    display: block !important;\n  }\n  .mysuru-courses-mobile-section {\n    display: none !important;\n  }\n}\n\n@media (max-width: 1024px) {\n  .mysuru-courses-desktop-section {\n    display: none !important;\n  }\n  .mysuru-courses-mobile-section {\n    display: block !important;\n  }\n}\n\n/* === DEDICATED MOBILE COURSES SECTION (Pixel-Accurate to reference media_1793170580302_5dffaa10.png) === */\n.mysuru-courses-mobile-section {\n  background-color: #F6ECDC !important;\n  background-image: url(\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png\") !important;\n  background-position: left center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n.mysuru-courses-mobile-inner-col {\n  width: 100% !important;\n  max-width: 380px !important;\n  margin: 0 auto !important;\n  display: flex !important;\n  flex-direction: column !important;\n  align-items: center !important;\n}\n\n.mysuru-mob-courses-heading .elementor-heading-title {\n  font-family: Georgia, 'Playfair Display', serif !important;\n  font-size: 1.85em !important;\n  font-weight: 700 !important;\n  color: #000000 !important;\n  text-align: center !important;\n  letter-spacing: 0.02em !important;\n}\n\n.mysuru-mob-courses-mascot-img {\n  text-align: center !important;\n  margin-bottom: 1.25em !important;\n}\n\n.mysuru-mob-courses-mascot-img img {\n  width: 9.5em !important;\n  max-width: 155px !important;\n  height: auto !important;\n  display: inline-block !important;\n}\n\n.mysuru-mob-card-widget {\n  width: 100% !important;\n  max-width: 310px !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n\n.mysuru-mob-course-card {\n  width: 100%;\n  background: #D48146;\n  background: linear-gradient(180deg, #D48146 0%, #C8743B 100%);\n  border-radius: 1.25em;\n  padding: 1.15em 1.2em 1.3em 1.2em;\n  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);\n  box-sizing: border-box;\n}\n\n.mysuru-mob-card-head {\n  display: flex;\n  align-items: center;\n  gap: 0.55em;\n  margin-bottom: 1.1em;\n}\n\n.mysuru-mob-card-icon-box {\n  background: #FFFFFF;\n  border-radius: 0.5em;\n  width: 3.4em;\n  height: 2.85em;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  flex-shrink: 0;\n  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);\n}\n\n.mysuru-mob-card-icon-box img {\n  width: 1.8em !important;\n  height: auto !important;\n  max-height: 2.0em !important;\n  object-fit: contain;\n}\n\n.mysuru-mob-card-code-box {\n  background: #F1D9C6;\n  border-radius: 0.5em;\n  flex: 1;\n  height: 2.85em;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);\n}\n\n.mysuru-mob-card-code-text {\n  font-family: Georgia, 'Playfair Display', serif;\n  font-size: 1.25em;\n  font-weight: 700;\n  color: #000000;\n  letter-spacing: 0.03em;\n}\n\n.mysuru-mob-card-body {\n  display: flex;\n  flex-direction: column;\n  gap: 0.55em;\n  padding-left: 0.35em;\n}\n\n.mysuru-mob-sub-item {\n  display: flex;\n  align-items: center;\n  gap: 0.65em;\n  color: #FFFFFF;\n  font-family: 'Inter', -apple-system, sans-serif;\n  font-size: 1.0em;\n  font-weight: 500;\n  line-height: 1.35;\n}\n\n.mysuru-mob-sub-arrow {\n  color: #FFFFFF;\n  font-size: 0.7em;\n  line-height: 1;\n  flex-shrink: 0;\n}\n\n.mysuru-course-card {\n  background-color: #D48146 !important;\n  background-image: url(\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-explore-section {\n  background-color: #F5DEC4 !important;\n  background-image: url(\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_explore_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-tour-section {\n  background-color: #F7EFE0 !important;\n  background-image: url(\"https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_tour_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n/* === FIGMA PARITY REFINEMENTS (DESKTOP) === */\n@media (min-width: 1025px) {\n  /* Header: 70px rounded hamburger bars */\n  .mysuru-menu-bar .elementor-divider-separator {\n    width: 4.375em !important;\n  }\n  /* Welcome: two-size heading + 18px body */\n  .mysuru-welcome-heading .elementor-heading-title {\n    font-size: 2.75em !important;\n    line-height: 1.3 !important;\n  }\n  .mysuru-welcome-heading .elementor-heading-title span:last-child {\n    font-size: 1.28em;\n  }\n  .mysuru-welcome-heading {\n    margin-bottom: 3.0em !important;\n  }\n  .mysuru-welcome-body.elementor-widget-text-editor,\n  .mysuru-explore-body.elementor-widget-text-editor,\n  .mysuru-events-subtitle.elementor-widget-text-editor {\n    font-size: 1.125em !important;\n    line-height: 1.25 !important;\n  }\n  .mysuru-welcome-body { max-width: 49.5em !important; }\n  .mysuru-explore-body { max-width: 58.8em !important; }\n  .mysuru-events-subtitle {\n    max-width: 61.4em !important;\n    text-align: left !important;\n  }\n  .mysuru-events-subtitle p { text-align: left !important; }\n  /* Admissions: Georgia year badge + compact centred enquiry row */\n  .mysuru-adm-orange-box { font-family: Georgia, serif !important; }\n  .mysuru-adm-enquiries-row { max-width: none !important; }\n  .mysuru-adm-enquiries-row > .elementor-container {\n    justify-content: center !important;\n    flex-wrap: nowrap !important;\n    gap: 1.5em;\n  }\n  .mysuru-adm-enquiries-row > .elementor-container > .elementor-column {\n    width: auto !important;\n    flex: 0 0 auto !important;\n  }\n  .mysuru-adm-enquiries-row h4.elementor-heading-title {\n    font-size: 1.75em !important;\n  }\n  .mysuru-adm-contact-text .elementor-heading-title {\n    font-size: 1.125em !important;\n  }\n  /* Course cards: fixed 10.375em (166px) height + uniform 2-line subject box so PCMB and PCMC align 100% evenly */\n  .mysuru-course-card {\n    height: 10.375em !important;\n    min-height: 10.375em !important;\n    display: flex !important;\n    align-items: center !important;\n  }\n  .mysuru-course-card > .elementor-container {\n    width: 100%;\n    align-items: center !important;\n  }\n  .mysuru-course-code-heading .elementor-heading-title { font-size: 1.6em !important; }\n  .mysuru-course-subjects-row {\n    min-height: 2.75em;\n    align-items: start;\n  }\n  .mysuru-course-subject { font-size: 1.125em; }\n  .mysuru-tri { font-size: 0.7em; line-height: 1.75; }\n  .mysuru-line-dot { width: 0.25em; height: 0.25em; }\n  /* Bigger orange arrow circles (94px) */\n  .mysuru-arrow-btn img {\n    width: 6.9em !important;\n    height: 6.55em !important;\n  }\n  /* Events heading spacing */\n  .mysuru-events-section .elementor-widget-heading:first-child { margin-bottom: 1.6em !important; }\n  /* Footer parity */\n  .mysuru-footer-section { background-color: #252525 !important; }\n  .mysuru-footer-section .elementor-widget-text-editor { font-size: 1.125em !important; }\n  .mysuru-footer-section .elementor-widget-text-editor p { margin-bottom: 1.25em !important; }\n  .mysuru-footer-section .elementor-widget-text-editor p:last-child { margin-bottom: 0 !important; }\n  .mysuru-footer-main-cols .elementor-column:nth-child(2) .elementor-widget-text-editor { line-height: 1.667 !important; }\n  .mysuru-footer-main-cols h4.elementor-heading-title { font-size: 1.875em !important; }\n  .mysuru-footer-main-cols .elementor-widget-heading { margin-bottom: 1.6em !important; }\n  .mysuru-footer-top-icons p.elementor-heading-title { font-size: 1.125em !important; }\n  .mysuru-footer-top-icons .elementor-widget-image { margin-bottom: 1.7em !important; }\n  .mysuru-footer-section { padding-bottom: 7.5em !important; }\n}\n\n/* === TABLET & MOBILE RESPONSIVE BREAKPOINTS (EM) === */\n@media (max-width: 1024px) {\n  .mysuru-welcome-section > .elementor-container,\n  .mysuru-tour-section > .elementor-container {\n    flex-wrap: wrap !important;\n  }\n  .mysuru-welcome-campus-img img {\n    height: auto !important;\n  }\n  .mysuru-course-card-seba {\n    width: 100% !important;\n    margin-top: 0 !important;\n  }\n  .mysuru-event-side-outer {\n    display: none !important;\n  }\n  .mysuru-social-dots {\n    flex-wrap: wrap;\n  }\n}\n\n@media (max-width: 767px) {\n  .elementor-section {\n    max-width: 100vw !important;\n    overflow-x: hidden !important;\n  }\n  .mysuru-logo-img img {\n    width: 11.5em !important;\n  }\n  .mysuru-play-btn-widget img {\n    width: 6.5em !important;\n    height: 6.5em !important;\n  }\n  .mysuru-course-card > .elementor-container {\n    flex-direction: column !important;\n    align-items: center !important;\n    text-align: center !important;\n  }\n  .mysuru-course-icon-box {\n    margin: 0 auto 0.5em auto !important;\n  }\n  .mysuru-course-dotted-line {\n    display: none !important;\n  }\n  .mysuru-course-code-wrap {\n    justify-content: center;\n  }\n  .mysuru-course-subjects-row {\n    grid-template-columns: repeat(2, 1fr);\n    gap: 0.65em 0.85em;\n    margin-top: 0.35em;\n  }\n  .mysuru-arrow-btn img {\n    width: 3.0em !important;\n    height: 2.85em !important;\n  }\n  .mysuru-event-side-inner {\n    display: none !important;\n  }\n  .mysuru-subscribe-form {\n    max-width: 100%;\n  }\n}\n</style>\n<script>\n(function() {\n  const CDN = 'https://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/';\n  const ASSET_MAP = {\n    'mysuru-asset-mysuru_logo': 'mysuru_logo.png',\n    'mysuru-asset-mysuru_header_menu': 'mysuru_header_menu.png',\n    'mysuru-asset-mysuru_hero_play': 'mysuru_hero_play.png',\n    'mysuru-asset-mysuru_welcome_left_bg': 'mysuru_welcome_left_bg.png',\n    'mysuru-asset-mysuru_welcome_campus': 'mysuru_welcome_campus.png',\n    'mysuru-asset-mysuru_admissions_bg': 'mysuru_admissions_bg.png',\n    'mysuru-asset-mysuru_icon_phone_orange': 'mysuru_icon_phone_orange.png',\n    'mysuru-asset-mysuru_icon_email_orange': 'mysuru_icon_email_orange.png',\n    'mysuru-asset-mysuru_courses_bg': 'mysuru_courses_bg.png',\n    'mysuru-asset-mysuru_course_card_bg': 'mysuru_course_card_bg.png',\n    'mysuru-asset-mysuru_course_line_dots': 'mysuru_course_line_dots.png',\n    'mysuru-asset-mysuru_courses_mascot': 'mysuru_courses_mascot.png',\n    'mysuru-asset-mysuru_icon_pcmb': 'mysuru_icon_pcmb.png',\n    'mysuru-asset-mysuru_icon_pcmc': 'mysuru_icon_pcmc.png',\n    'mysuru-asset-mysuru_icon_bams': 'mysuru_icon_bams.png',\n    'mysuru-asset-mysuru_icon_bame': 'mysuru_icon_bame.png',\n    'mysuru-asset-mysuru_icon_seba': 'mysuru_icon_seba.png',\n    'mysuru-asset-mysuru_topper_card_full': 'mysuru_topper_card_full.png',\n    'mysuru-asset-mysuru_topper_photo': 'mysuru_topper_photo.png',\n    'mysuru-asset-mysuru_arrow_left': 'mysuru_arrow_left.png',\n    'mysuru-asset-mysuru_arrow_right': 'mysuru_arrow_right.png',\n    'mysuru-asset-mysuru_explore_bg': 'mysuru_explore_bg.png',\n    'mysuru-asset-mysuru_explore_students': 'mysuru_explore_students.png',\n    'mysuru-asset-mysuru_event_center': 'mysuru_event_center.png',\n    'mysuru-asset-mysuru_event_panel_1': 'mysuru_event_panel_1.png',\n    'mysuru-asset-mysuru_event_panel_2': 'mysuru_event_panel_2.png',\n    'mysuru-asset-mysuru_event_panel_3': 'mysuru_event_panel_3.png',\n    'mysuru-asset-mysuru_event_panel_4': 'mysuru_event_panel_4.png',\n    'mysuru-asset-mysuru_event_panel_5': 'mysuru_event_panel_5.png',\n    'mysuru-asset-mysuru_tour_bg': 'mysuru_tour_bg.png',\n    'mysuru-asset-mysuru_footer_phone': 'mysuru_footer_phone.png',\n    'mysuru-asset-mysuru_footer_email': 'mysuru_footer_email.png',\n    'mysuru-asset-mysuru_footer_map': 'mysuru_footer_map.png',\n    'mysuru-asset-mysuru_footer_privacy': 'mysuru_footer_privacy.png'\n  };\n\n  function needsRestore(img, expectedFile) {\n    if (!img) return false;\n    const s = img.getAttribute('src') || '';\n    if (!s || s.indexOf('placeholder.png') !== -1 || (img.complete && img.naturalWidth === 0)) return true;\n    if (expectedFile) {\n      const baseName = expectedFile.replace(/.[^.]+$/, '');\n      if (s.indexOf(baseName) === -1) return true;\n    }\n    return false;\n  }\n\n  function setImgUrl(img, url) {\n    if (!img) return;\n    if (img.getAttribute('src') !== url) {\n      img.setAttribute('src', url);\n    }\n    img.removeAttribute('srcset');\n    img.removeAttribute('sizes');\n  }\n\n  function restorePlaceholderImages() {\n    Object.keys(ASSET_MAP).forEach(function(cls) {\n      const file = ASSET_MAP[cls];\n      const targetUrl = CDN + file;\n      const imgs = document.querySelectorAll('.' + cls + ' img');\n      imgs.forEach(function(img) {\n        if (needsRestore(img, file)) {\n          setImgUrl(img, targetUrl);\n        }\n        if (!img.dataset.mysuruErrBound) {\n          img.dataset.mysuruErrBound = '1';\n          img.addEventListener('error', function() {\n            setImgUrl(img, targetUrl);\n          });\n        }\n      });\n    });\n\n    const topperUrl = CDN + 'mysuru_topper_card_full.png';\n    document.querySelectorAll('.mysuru-results-carousel .swiper-slide img').forEach(function(img) {\n      if (needsRestore(img, 'mysuru_topper_card_full.png')) {\n        setImgUrl(img, topperUrl);\n      }\n    });\n\n    const eventUrl = CDN + 'mysuru_event_center.png';\n    document.querySelectorAll('.mysuru-events-carousel .swiper-slide img').forEach(function(img) {\n      if (needsRestore(img, 'mysuru_event_center.png')) {\n        setImgUrl(img, eventUrl);\n      }\n    });\n  }\n\n  function setupResultsCarousel(carouselSelector, prevSelector, nextSelector, desktopCount, gapDesktop, fallbackUrls) {\n    const widgetEl = document.querySelector(carouselSelector);\n    if (widgetEl) {\n      widgetEl.removeAttribute('data-settings');\n      widgetEl.removeAttribute('data-widget_type');\n    }\n    let container = document.querySelector(carouselSelector + ' .swiper, ' + carouselSelector + ' .swiper-container');\n    const existingSlides = container ? container.querySelectorAll('.swiper-slide:not(.swiper-slide-duplicate)') : [];\n    if ((!container || existingSlides.length < 2) && widgetEl && fallbackUrls && fallbackUrls.length) {\n      const wCont = widgetEl.querySelector('.elementor-widget-container') || widgetEl;\n      const slidesHtml = fallbackUrls.map(function(u) {\n        return '<div class=\"swiper-slide\"><figure class=\"swiper-slide-inner\"><img class=\"swiper-slide-image\" src=\"' + u + '\" loading=\"eager\" alt=\"\" /></figure></div>';\n      }).join('');\n      wCont.innerHTML = '<div class=\"elementor-image-carousel-wrapper swiper\" dir=\"ltr\"><div class=\"elementor-image-carousel swiper-wrapper\">' + slidesHtml + '</div></div>';\n      container = wCont.querySelector('.swiper');\n    }\n    if (!container) return;\n    if (container.swiper && typeof container.swiper.destroy === 'function') {\n      try { container.swiper.destroy(false, false); } catch (e) {}\n    }\n    const wrapper = container.querySelector('.swiper-wrapper');\n    if (!wrapper) return;\n    wrapper.querySelectorAll('.swiper-slide-duplicate').forEach(function(d) { d.remove(); });\n    if (wrapper.dataset.mysuruInit === '1') {\n      if (typeof wrapper._mysuruRefresh === 'function') wrapper._mysuruRefresh();\n      return;\n    }\n\n    const rawSlides = Array.from(wrapper.querySelectorAll('.swiper-slide:not(.swiper-slide-duplicate)'));\n    if (rawSlides.length < 2) return;\n    rawSlides.forEach(function(s, i) {\n      const img = s.querySelector('img');\n      if (img && fallbackUrls && fallbackUrls.length && needsRestore(img, 'mysuru_topper_card_full.png')) {\n        setImgUrl(img, fallbackUrls[i % fallbackUrls.length]);\n      }\n    });\n    wrapper.dataset.mysuruInit = '1';\n\n    const origHTML = rawSlides.map(function(s) {\n      return s.outerHTML.replace(/loading=[\"']lazy[\"']/gi, 'loading=\"eager\"');\n    });\n    const N = origHTML.length;\n    wrapper.innerHTML = origHTML.concat(origHTML).concat(origHTML).join('');\n\n    container.classList.add('swiper-initialized', 'swiper-horizontal', 'swiper-container-initialized');\n    container.style.overflow = 'hidden';\n    container.style.width = '100%';\n    wrapper.style.display = 'flex';\n    wrapper.style.alignItems = 'flex-start';\n    wrapper.style.flexWrap = 'nowrap';\n    wrapper.style.boxSizing = 'border-box';\n    wrapper.style.willChange = 'transform';\n\n    let currentIndex = N;\n    let isAnimating = false;\n\n    function getVisibleCount() {\n      if (window.innerWidth <= 767) return 1;\n      if (window.innerWidth <= 1024) return 2;\n      return desktopCount;\n    }\n\n    function getGapPx() {\n      if (window.innerWidth <= 767) return 16;\n      return Math.round((window.innerWidth / 1920) * gapDesktop);\n    }\n\n    function getSlideStep() {\n      const vis = getVisibleCount();\n      const gapPx = getGapPx();\n      const cWidth = container.clientWidth || 1400;\n      const slideW = (cWidth - gapPx * (vis - 1)) / vis;\n      return { vis: vis, gapPx: gapPx, slideW: slideW, step: slideW + gapPx };\n    }\n\n    function applyClasses(animate) {\n      wrapper.querySelectorAll('.swiper-slide-duplicate').forEach(function(d) { d.remove(); });\n      const allSlides = Array.from(wrapper.children);\n      const m = getSlideStep();\n      const isDesktop = window.innerWidth > 1024;\n      allSlides.forEach(function(s, idx) {\n        s.style.width = m.slideW + 'px';\n        s.style.minWidth = m.slideW + 'px';\n        s.style.maxWidth = m.slideW + 'px';\n        s.style.marginRight = m.gapPx + 'px';\n        s.style.flexShrink = '0';\n        s.style.boxSizing = 'border-box';\n        // Exact alternating vertical stagger on desktop (Card 1,3,5 lower by 3.65em, Card 2,4 higher at 0em)\n        const rel = idx - currentIndex;\n        if (isDesktop) {\n          s.style.marginTop = (Math.abs(rel) % 2 === 0) ? '3.65em' : '0em';\n        } else {\n          s.style.marginTop = '0em';\n        }\n      });\n      wrapper.style.transition = animate ? 'transform 520ms cubic-bezier(0.22, 1, 0.36, 1)' : 'none';\n      const offset = -(currentIndex * m.step);\n      wrapper.style.transform = 'translate3d(' + offset + 'px, 0, 0)';\n    }\n    wrapper._mysuruRefresh = function() { applyClasses(false); };\n\n    function nextSlide() {\n      if (isAnimating) return;\n      isAnimating = true;\n      currentIndex += 1;\n      applyClasses(true);\n    }\n\n    function prevSlide() {\n      if (isAnimating) return;\n      isAnimating = true;\n      currentIndex -= 1;\n      applyClasses(true);\n    }\n\n    wrapper.addEventListener('transitionend', function(e) {\n      if (e.target !== wrapper) return;\n      isAnimating = false;\n      if (currentIndex >= 2 * N) {\n        currentIndex -= N;\n        applyClasses(false);\n      } else if (currentIndex < N) {\n        currentIndex += N;\n        applyClasses(false);\n      }\n    });\n\n    applyClasses(false);\n    window.addEventListener('resize', function() { applyClasses(false); });\n\n    const prevBtn = document.querySelector(prevSelector);\n    const nextBtn = document.querySelector(nextSelector);\n    if (prevBtn) {\n      prevBtn.addEventListener('click', function(e) {\n        e.preventDefault();\n        prevSlide();\n        resetTimer();\n      });\n    }\n    if (nextBtn) {\n      nextBtn.addEventListener('click', function(e) {\n        e.preventDefault();\n        nextSlide();\n        resetTimer();\n      });\n    }\n\n    let timer = setInterval(nextSlide, 2800);\n    function resetTimer() {\n      clearInterval(timer);\n      timer = setInterval(nextSlide, 2800);\n    }\n    container.addEventListener('mouseenter', function() { clearInterval(timer); });\n    container.addEventListener('mouseleave', function() { resetTimer(); });\n  }\n\n  // Interactive Events 5-Slide Variable-Width Coverflow Carousel + Pagination Dots\n  function setupEventsCarousel(carouselSelector, prevSelector, nextSelector, gapDesktop, fallbackUrls) {\n    const widgetEl = document.querySelector(carouselSelector);\n    if (widgetEl) {\n      widgetEl.removeAttribute('data-settings');\n      widgetEl.removeAttribute('data-widget_type');\n    }\n    let container = document.querySelector(carouselSelector + ' .swiper, ' + carouselSelector + ' .swiper-container');\n    const existingSlides = container ? container.querySelectorAll('.swiper-slide:not(.swiper-slide-duplicate)') : [];\n    if ((!container || existingSlides.length < 2) && widgetEl && fallbackUrls && fallbackUrls.length) {\n      const wCont = widgetEl.querySelector('.elementor-widget-container') || widgetEl;\n      const slidesHtml = fallbackUrls.map(function(u) {\n        return '<div class=\"swiper-slide\"><figure class=\"swiper-slide-inner\"><img class=\"swiper-slide-image\" src=\"' + u + '\" loading=\"eager\" alt=\"\" /></figure></div>';\n      }).join('');\n      wCont.innerHTML = '<div class=\"elementor-image-carousel-wrapper swiper\" dir=\"ltr\"><div class=\"elementor-image-carousel swiper-wrapper\">' + slidesHtml + '</div></div>';\n      container = wCont.querySelector('.swiper');\n    }\n    if (!container) return;\n    if (container.swiper && typeof container.swiper.destroy === 'function') {\n      try { container.swiper.destroy(false, false); } catch (e) {}\n    }\n    const wrapper = container.querySelector('.swiper-wrapper');\n    if (!wrapper) return;\n    wrapper.querySelectorAll('.swiper-slide-duplicate').forEach(function(d) { d.remove(); });\n    if (wrapper.dataset.mysuruEventsCarouselInit === '1') {\n      if (typeof wrapper._mysuruEventsRefresh === 'function') wrapper._mysuruEventsRefresh();\n      return;\n    }\n\n    const rawSlides = Array.from(wrapper.querySelectorAll('.swiper-slide:not(.swiper-slide-duplicate)'));\n    if (rawSlides.length < 2) return;\n    rawSlides.forEach(function(s, i) {\n      const img = s.querySelector('img');\n      if (img && fallbackUrls && fallbackUrls.length && needsRestore(img, 'mysuru_event_center.png')) {\n        setImgUrl(img, fallbackUrls[i % fallbackUrls.length]);\n      }\n    });\n    wrapper.dataset.mysuruEventsCarouselInit = '1';\n\n    const origHTML = rawSlides.map(function(s) {\n      return s.outerHTML.replace(/loading=[\"']lazy[\"']/gi, 'loading=\"eager\"');\n    });\n    const N = origHTML.length;\n    wrapper.innerHTML = origHTML.concat(origHTML).concat(origHTML).join('');\n\n    container.classList.add('swiper-initialized', 'swiper-horizontal', 'swiper-container-initialized');\n    container.style.overflow = 'hidden';\n    container.style.width = '100%';\n    wrapper.style.display = 'flex';\n    wrapper.style.alignItems = 'flex-start';\n    wrapper.style.flexWrap = 'nowrap';\n    wrapper.style.boxSizing = 'border-box';\n    wrapper.style.willChange = 'transform';\n\n    let currentIndex = N;\n    let isAnimating = false;\n    const dots = Array.from(document.querySelectorAll('.mysuru-event-dot'));\n\n    function getMetrics() {\n      const vw = window.innerWidth || 1920;\n      const cWidth = container.clientWidth || 1575;\n      if (vw <= 767) {\n        const gapPx = 14;\n        return { mode: 'mobile', vis: 1, gapPx: gapPx, sideW: cWidth, centerW: cWidth, step: cWidth + gapPx };\n      }\n      if (vw <= 1024) {\n        const gapPx = 14;\n        const avail = cWidth - 2 * gapPx;\n        const sideW = avail * 0.27;\n        const centerW = avail * 0.46;\n        return { mode: 'tablet', vis: 3, gapPx: gapPx, sideW: sideW, centerW: centerW, step: sideW + gapPx };\n      }\n      const gapPx = Math.round((vw / 1920) * gapDesktop);\n      const avail = cWidth - 4 * gapPx;\n      // Exact Figma 5-panel coverflow proportions: 243 : 243 : 531 : 243 : 243 (sum = 1503)\n      const sideW = avail * (243 / 1503);\n      const centerW = avail * (531 / 1503);\n      return { mode: 'desktop', vis: 5, gapPx: gapPx, sideW: sideW, centerW: centerW, step: sideW + gapPx };\n    }\n\n    function syncDots() {\n      const activeDot = (((currentIndex - N) % 4) + 4) % 4;\n      dots.forEach(function(d, i) {\n        d.classList.toggle('active', i === activeDot);\n      });\n    }\n\n    function applyClasses(animate) {\n      wrapper.querySelectorAll('.swiper-slide-duplicate').forEach(function(d) { d.remove(); });\n      const allSlides = Array.from(wrapper.children);\n      const m = getMetrics();\n      const slideTrans = animate\n        ? 'width 520ms cubic-bezier(0.22, 1, 0.36, 1), min-width 520ms cubic-bezier(0.22, 1, 0.36, 1), max-width 520ms cubic-bezier(0.22, 1, 0.36, 1), margin-top 520ms cubic-bezier(0.22, 1, 0.36, 1)'\n        : 'none';\n\n      allSlides.forEach(function(s, idx) {\n        s.classList.remove('mysuru-event-pos-0', 'mysuru-event-pos-1', 'mysuru-event-pos-2', 'mysuru-event-pos-3', 'mysuru-event-pos-4');\n        const rel = idx - currentIndex;\n        let w = m.sideW;\n        let mt = '0em';\n\n        if (m.mode === 'mobile') {\n          if (rel === 0) s.classList.add('mysuru-event-pos-2');\n          else s.classList.add('mysuru-event-pos-0');\n        } else if (m.mode === 'tablet') {\n          if (rel === 0) {\n            s.classList.add('mysuru-event-pos-1');\n            mt = '1.5em';\n          } else if (rel === 1) {\n            s.classList.add('mysuru-event-pos-2');\n            w = m.centerW;\n          } else if (rel === 2) {\n            s.classList.add('mysuru-event-pos-3');\n            mt = '1.5em';\n          } else {\n            s.classList.add('mysuru-event-pos-0');\n          }\n        } else {\n          if (rel >= 0 && rel <= 4) {\n            s.classList.add('mysuru-event-pos-' + rel);\n          } else {\n            s.classList.add((Math.abs(idx) % 2 === 0) ? 'mysuru-event-pos-0' : 'mysuru-event-pos-1');\n          }\n          if (rel === 2) {\n            w = m.centerW;\n          }\n          // Exact 45px (2.8125em) downward offset on inner side panels (rel === 1 and rel === 3)\n          if (rel === 1 || rel === 3) {\n            mt = '2.8125em';\n          }\n        }\n\n        s.style.transition = slideTrans;\n        s.style.width = w + 'px';\n        s.style.minWidth = w + 'px';\n        s.style.maxWidth = w + 'px';\n        s.style.marginRight = m.gapPx + 'px';\n        s.style.marginTop = mt;\n        s.style.flexShrink = '0';\n        s.style.boxSizing = 'border-box';\n      });\n\n      wrapper.style.transition = animate ? 'transform 520ms cubic-bezier(0.22, 1, 0.36, 1)' : 'none';\n      const offset = -(currentIndex * m.step);\n      wrapper.style.transform = 'translate3d(' + offset + 'px, 0, 0)';\n      syncDots();\n    }\n    wrapper._mysuruEventsRefresh = function() { applyClasses(false); };\n\n    function nextSlide() {\n      if (isAnimating) return;\n      isAnimating = true;\n      currentIndex += 1;\n      applyClasses(true);\n    }\n\n    function prevSlide() {\n      if (isAnimating) return;\n      isAnimating = true;\n      currentIndex -= 1;\n      applyClasses(true);\n    }\n\n    wrapper.addEventListener('transitionend', function(e) {\n      if (e.target !== wrapper) return;\n      isAnimating = false;\n      if (currentIndex >= 2 * N) {\n        currentIndex -= N;\n        applyClasses(false);\n      } else if (currentIndex < N) {\n        currentIndex += N;\n        applyClasses(false);\n      }\n    });\n\n    applyClasses(false);\n    window.addEventListener('resize', function() { applyClasses(false); });\n\n    const prevBtn = document.querySelector(prevSelector);\n    const nextBtn = document.querySelector(nextSelector);\n    if (prevBtn) {\n      prevBtn.addEventListener('click', function(e) {\n        e.preventDefault();\n        prevSlide();\n        resetTimer();\n      });\n    }\n    if (nextBtn) {\n      nextBtn.addEventListener('click', function(e) {\n        e.preventDefault();\n        nextSlide();\n        resetTimer();\n      });\n    }\n\n    dots.forEach(function(d, i) {\n      d.addEventListener('click', function(e) {\n        e.preventDefault();\n        if (isAnimating) return;\n        const activeDot = (((currentIndex - N) % 4) + 4) % 4;\n        const diff = i - activeDot;\n        if (diff !== 0) {\n          isAnimating = true;\n          currentIndex += diff;\n          applyClasses(true);\n          resetTimer();\n        }\n      });\n    });\n\n    // Touch Swipe Support for Mobile & Tablet\n    let touchStartX = 0;\n    container.addEventListener('touchstart', function(e) {\n      if (e.touches && e.touches.length) {\n        touchStartX = e.touches[0].clientX;\n        clearInterval(timer);\n      }\n    }, { passive: true });\n    container.addEventListener('touchend', function(e) {\n      if (e.changedTouches && e.changedTouches.length) {\n        const diff = e.changedTouches[0].clientX - touchStartX;\n        if (Math.abs(diff) > 35) {\n          if (diff < 0) nextSlide();\n          else prevSlide();\n        }\n        resetTimer();\n      }\n    }, { passive: true });\n\n    let timer = setInterval(nextSlide, 3000);\n    function resetTimer() {\n      clearInterval(timer);\n      timer = setInterval(nextSlide, 3000);\n    }\n    container.addEventListener('mouseenter', function() { clearInterval(timer); });\n    container.addEventListener('mouseleave', function() { resetTimer(); });\n  }\n\n  function initAll() {\n    restorePlaceholderImages();\n    const resultsFallback = [\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png',\n      CDN + 'mysuru_topper_card_full.png'\n    ];\n    const eventsFallback = [\n      CDN + 'mysuru_event_center.png',\n      CDN + 'mysuru_event_center.png',\n      CDN + 'mysuru_event_center.png',\n      CDN + 'mysuru_event_center.png',\n      CDN + 'mysuru_event_center.png',\n      CDN + 'mysuru_event_center.png',\n      CDN + 'mysuru_event_center.png',\n      CDN + 'mysuru_event_center.png'\n    ];\n    setupResultsCarousel('.mysuru-results-carousel', '.mysuru-results-prev', '.mysuru-results-next', 5, 28, resultsFallback);\n    setupEventsCarousel('.mysuru-events-carousel', '.mysuru-events-prev', '.mysuru-events-next', 18, eventsFallback);\n    restorePlaceholderImages();\n  }\n\n  initAll();\n  if (document.readyState === 'loading') {\n    document.addEventListener('DOMContentLoaded', function() {\n      initAll();\n      setTimeout(initAll, 250);\n      setTimeout(initAll, 700);\n      setTimeout(initAll, 1500);\n    });\n  } else {\n    setTimeout(initAll, 250);\n    setTimeout(initAll, 700);\n    setTimeout(initAll, 1500);\n  }\n  window.addEventListener('load', function() {\n    initAll();\n    setTimeout(initAll, 450);\n    setTimeout(initAll, 1200);\n  });\n  if (typeof MutationObserver !== 'undefined' && document.body) {\n    let debounceTimer = null;\n    const obs = new MutationObserver(function() {\n      if (debounceTimer) clearTimeout(debounceTimer);\n      debounceTimer = setTimeout(restorePlaceholderImages, 150);\n    });\n    obs.observe(document.body, { childList: true, subtree: true });\n  }\n})();\n</script>"
+                "html": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Nunito:wght@400;600;700&display=swap\" rel=\"stylesheet\">\n<style>\n\n\n\n\n/* === GLOBAL RESET & PROPORTIONAL DESKTOP SCALING (1920px = 120em -> 1em = 16px) === */\nhtml, body {\n  margin: 0 !important;\n  padding: 0 !important;\n  overflow-x: hidden !important;\n  max-width: 100% !important;\n  background: #FFFFFF;\n}\n.mysuru-results-carousel .swiper,\n.mysuru-results-carousel .swiper-wrapper,\n.mysuru-results-carousel .swiper-slide {\n  opacity: 1 !important;\n  visibility: visible !important;\n}\n.elementor {\n  font-size: 16px;\n}\n@media (min-width: 1025px) {\n  .elementor {\n    font-size: calc(100vw / 120) !important;\n  }\n}\n.elementor-widget:not(:last-child) {\n  margin-bottom: 0 !important;\n}\n.elementor-column-gap-default > .elementor-column > .elementor-element-populated,\n.elementor-column-gap-no > .elementor-column > .elementor-element-populated {\n  padding: 0;\n}\n\n/* === SECTION 1: HEADER BAR (1920x167px = 120em x 10.4375em) === */\n.mysuru-logo-img img {\n  width: 16.0625em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block;\n}\n.mysuru-header-menu-col {\n  cursor: pointer;\n}\n.mysuru-menu-bar .elementor-divider-separator {\n  border-radius: 0.35em !important;\n}\n\n/* === SECTION 2: HERO VIDEO BANNER (1920x531px = 120em x 33.1875em) === */\n.mysuru-play-btn-widget img {\n  width: 10.375em !important;\n  height: 10.375em !important;\n  cursor: pointer;\n  transition: transform 0.25s ease;\n}\n.mysuru-play-btn-widget img:hover {\n  transform: scale(1.06);\n}\n\n/* === ORANGE PILL BUTTONS (183x60px = 11.4375em x 3.75em, #E58D4D) === */\n.mysuru-btn-pill .elementor-button {\n  min-width: 11.4375em;\n  min-height: 3.75em;\n  display: inline-flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  padding: 0.75em 1.65em !important;\n  border-radius: 2.1875em !important;\n  transition: all 0.25s ease !important;\n  box-sizing: border-box !important;\n}\n.mysuru-btn-pill .elementor-button-content-wrapper {\n  display: inline-flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n}\n.mysuru-btn-pill .elementor-button-text {\n  display: inline-flex !important;\n  align-items: center !important;\n  gap: 0.9em;\n  line-height: 1 !important;\n}\n.mysuru-btn-orange .elementor-button-text::after {\n  content: '\\2192';\n  font-size: 1.25em;\n  line-height: 1;\n  font-weight: 600;\n  display: inline-block;\n  transform: translateY(-0.02em);\n}\n.mysuru-btn-orange .elementor-button:hover {\n  background-color: #E58D4D !important;\n  color: #FFFFFF !important;\n  border-color: #E58D4D !important;\n}\n\n/* === SECTION 3: WELCOME TO RV PU COLLEGE, MYSURU (1920x600px = 120em x 37.5em) === */\n.mysuru-welcome-section > .elementor-container {\n  display: flex !important;\n  align-items: stretch !important;\n}\n.mysuru-welcome-body {\n  max-width: 55.5625em;\n}\n.mysuru-welcome-campus-img img {\n  width: 100% !important;\n  height: 37.5em !important;\n  object-fit: cover !important;\n  display: block !important;\n}\n\n/* === SECTION 4A & 4B: ADMISSIONS OPEN 2026-2027 === */\n.mysuru-adm-orange-box {\n  background: #E58D4D;\n  color: #FFFFFF;\n  font-family: 'Inter', sans-serif;\n  font-weight: 700;\n  padding: 0.04em 0.36em;\n  display: inline-block;\n  margin-left: 0.25em;\n  line-height: 1.15;\n}\n.mysuru-adm-enquiries-row {\n  max-width: 66em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-adm-contact-col > .elementor-widget-wrap,\n.mysuru-adm-contact-col > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  flex-direction: row !important;\n  align-items: center !important;\n  justify-content: center !important;\n  flex-wrap: nowrap !important;\n  gap: 0.65em;\n}\n.mysuru-adm-icon-widget {\n  width: auto !important;\n  margin-bottom: 0 !important;\n}\n.mysuru-adm-icon-widget img {\n  width: 2.3125em !important;\n  height: 2.3125em !important;\n  object-fit: contain !important;\n  display: block !important;\n}\n.mysuru-adm-contact-text {\n  width: auto !important;\n  margin-bottom: 0 !important;\n}\n\n/* === SECTION 5: COURSES OFFERED (1920x841px = 120em x 52.5625em) === */\n.mysuru-courses-top-grid {\n  max-width: 101.6875em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-course-card {\n  min-height: 10.3125em;\n  box-shadow: 0 0.25em 0.65em rgba(0, 0, 0, 0.22);\n  box-sizing: border-box !important;\n}\n.mysuru-course-card > .elementor-container {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-course-icon-box {\n  width: 3.625em !important;\n  min-width: 3.625em !important;\n  max-width: 3.625em !important;\n  height: 3.25em !important;\n  border-radius: 0.3125em !important;\n  background: #FFFFFF !important;\n  display: flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  flex-shrink: 0 !important;\n}\n.mysuru-course-icon-box > .elementor-widget-wrap,\n.mysuru-course-icon-box > .elementor-column-wrap,\n.mysuru-course-icon-box > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  width: 100% !important;\n  height: 100% !important;\n  padding: 0 !important;\n}\n.mysuru-course-icon-widget img {\n  width: 1.9em !important;\n  height: 2.0em !important;\n  object-fit: contain !important;\n  display: block !important;\n  margin: 0 auto !important;\n}\n.mysuru-course-code-wrap {\n  display: flex;\n  align-items: center;\n  width: 100%;\n  gap: 0.55em;\n}\n.mysuru-course-code-text {\n  flex-shrink: 0;\n}\n.mysuru-course-dotted-line {\n  flex: 1 1 auto;\n  display: flex;\n  align-items: center;\n  min-width: 3em;\n}\n.mysuru-line-dot {\n  width: 0.35em;\n  height: 0.35em;\n  border-radius: 50%;\n  background: #FFFFFF;\n  flex-shrink: 0;\n}\n.mysuru-line-bar {\n  flex: 1 1 auto;\n  height: 0.0625em;\n  background: rgba(255, 255, 255, 0.9);\n}\n.mysuru-course-subjects-row {\n  display: grid;\n  grid-template-columns: repeat(4, auto);\n  align-items: start;\n  justify-content: space-between;\n  gap: 0.5em;\n  width: 100%;\n}\n.mysuru-course-subject {\n  display: inline-flex;\n  align-items: flex-start;\n  gap: 0.35em;\n  color: #FFFFFF;\n  font-family: 'Inter', sans-serif;\n  font-size: 1.0em;\n  line-height: 1.22;\n  text-align: left;\n}\n.mysuru-tri {\n  font-size: 0.85em;\n  line-height: 1.3;\n  flex-shrink: 0;\n}\n.mysuru-courses-mascot-col {\n  position: relative;\n  z-index: 6;\n}\n.mysuru-courses-mascot-widget img {\n  width: 21.3125em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block !important;\n  margin: 0 auto !important;\n}\n.mysuru-course-card-seba {\n  width: 38.6875em !important;\n  max-width: 100% !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n  position: relative;\n  z-index: 4;\n}\n@media (min-width: 1025px) {\n  .mysuru-course-card-seba {\n    margin-top: -1.65em !important;\n  }\n}\n\n/* === SECTION 6: RESULTS (5-CARD STAGGERED CAROUSEL) === */\n.mysuru-results-slider-row > .elementor-container,\n.mysuru-events-slider-row > .elementor-container,\n.mysuru-tour-section > .elementor-container {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-results-carousel-col {\n  min-width: 0 !important;\n}\n.mysuru-slider-arrow-col,\n.mysuru-slider-arrow-col > .elementor-widget-wrap,\n.mysuru-slider-arrow-col > .elementor-column-wrap,\n.mysuru-slider-arrow-col > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-arrow-btn img {\n  width: 5.875em !important;\n  height: 5.5625em !important;\n  max-width: none !important;\n  cursor: pointer;\n  transition: transform 0.2s ease;\n  display: block !important;\n}\n.mysuru-arrow-btn img:hover {\n  transform: scale(1.06);\n}\n.mysuru-results-carousel,\n.mysuru-results-carousel > .elementor-widget-container {\n  width: 100% !important;\n}\n.mysuru-results-carousel .swiper-wrapper {\n  align-items: flex-start !important;\n}\n.mysuru-results-carousel .swiper-slide {\n  transition: margin-top 520ms cubic-bezier(0.22, 1, 0.36, 1);\n}\n@media (min-width: 1025px) {\n  .mysuru-footer-copyright-right .elementor-heading-title {\n    white-space: nowrap;\n  }\n}\n.mysuru-results-carousel .swiper-slide img {\n  width: 100% !important;\n  max-width: 17.6875em !important;\n  height: auto !important;\n  margin: 0 auto !important;\n  display: block !important;\n}\n\n/* === SECTION 7: EXPLORE OUR VARIOUS CAMPUSES! (1920x600px = 120em x 37.5em) === */\n.mysuru-explore-section {\n  min-height: 37.5em;\n  overflow: hidden;\n}\n.mysuru-explore-body {\n  max-width: 67.3em;\n}\n.mysuru-explore-students-img img {\n  width: 44.75em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block !important;\n  margin-left: auto !important;\n}\n\n/* === SECTION 8: EVENTS (5-PANEL SHOWCASE + DOTS) === */\n.mysuru-events-subtitle {\n  max-width: 69.5em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-events-slider-row > .elementor-container {\n  align-items: flex-start !important;\n}\n.mysuru-events-slider-row .mysuru-slider-arrow-col {\n  align-self: center !important;\n}\n.mysuru-event-panel-img img {\n  width: 100% !important;\n  height: auto !important;\n  display: block !important;\n  transition: opacity 0.35s ease, transform 0.35s ease;\n}\n.mysuru-events-dots {\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  gap: 0.65em;\n}\n.mysuru-event-dot {\n  width: 1.15em;\n  height: 1.15em;\n  border-radius: 50%;\n  border: 0.0625em solid #252525;\n  background: transparent;\n  cursor: pointer;\n  display: inline-block;\n  transition: background-color 0.2s ease, border-color 0.2s ease;\n}\n.mysuru-event-dot.active {\n  background: #8E8E8E;\n  border-color: #8E8E8E;\n}\n\n/* === SECTION 10: FOOTER (1920x746px = 120em x 46.625em) === */\n.mysuru-footer-top-icons {\n  max-width: 58em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-footer-icon-phone img {\n  width: 5.3125em !important;\n  height: 5.3125em !important;\n  object-fit: contain !important;\n}\n.mysuru-footer-icon-std img {\n  width: 4.5em !important;\n  height: 4.5em !important;\n  object-fit: contain !important;\n}\n.mysuru-subscribe-form {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  background: #6F6F6F;\n  border-radius: 1.9375em;\n  height: 3.875em;\n  padding: 0 1.4em;\n  width: 100%;\n  max-width: 24.25em;\n  box-sizing: border-box;\n}\n.mysuru-subscribe-input {\n  background: transparent !important;\n  border: none !important;\n  outline: none !important;\n  color: #FFFFFF !important;\n  font-family: 'Inter', sans-serif;\n  font-size: 1.15em;\n  width: 100%;\n}\n.mysuru-subscribe-input::placeholder {\n  color: #FFFFFF;\n  opacity: 0.95;\n}\n.mysuru-subscribe-submit {\n  background: transparent !important;\n  border: none !important;\n  color: #FFFFFF !important;\n  font-size: 1.15em;\n  cursor: pointer;\n  padding: 0.25em 0 0.25em 0.75em;\n}\n.mysuru-social-dots {\n  display: flex;\n  align-items: center;\n  gap: 0.4375em;\n  flex-wrap: nowrap;\n}\n.mysuru-social-circle {\n  width: 3.125em;\n  height: 3.125em;\n  border-radius: 50%;\n  background: #FFFFFF;\n  display: inline-block;\n  flex-shrink: 0;\n  transition: transform 0.2s ease, background-color 0.2s ease;\n}\n.mysuru-social-circle:hover {\n  transform: translateY(-0.2em);\n  background: #E58D4D;\n}\n\n/* === BULLETPROOF BACKGROUND IMAGE FALLBACKS (FOR CROSS-SITE ELEMENTOR JSON IMPORT) === */\n.mysuru-welcome-left-col:not(.elementor-motion-effects-element-type-background),\n.mysuru-welcome-left-col > .elementor-element-populated,\n.mysuru-welcome-left-col > .elementor-widget-wrap {\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_welcome_left_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-admissions-section {\n  background-color: #323130 !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_admissions_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-courses-section {\n  background-color: #F6ECDC !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n/* === COURSES OFFERED: DESKTOP & MOBILE RESPONSIVE SWITCHING === */\n@media (min-width: 1025px) {\n  .mysuru-courses-desktop-section {\n    display: block !important;\n  }\n  .mysuru-courses-mobile-section {\n    display: none !important;\n  }\n}\n\n@media (max-width: 1024px) {\n  .mysuru-courses-desktop-section {\n    display: none !important;\n  }\n  .mysuru-courses-mobile-section {\n    display: block !important;\n  }\n}\n\n/* === DEDICATED MOBILE COURSES SECTION (Pixel-Accurate to reference media_1793170580302_5dffaa10.png) === */\n.mysuru-courses-mobile-section {\n  background-color: #F6ECDC !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png\") !important;\n  background-position: left center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n.mysuru-courses-mobile-inner-col {\n  width: 100% !important;\n  max-width: 380px !important;\n  margin: 0 auto !important;\n  display: flex !important;\n  flex-direction: column !important;\n  align-items: center !important;\n}\n\n.mysuru-mob-courses-heading .elementor-heading-title {\n  font-family: Georgia, 'Playfair Display', serif !important;\n  font-size: 1.85em !important;\n  font-weight: 700 !important;\n  color: #000000 !important;\n  text-align: center !important;\n  letter-spacing: 0.02em !important;\n}\n\n.mysuru-mob-courses-mascot-img {\n  text-align: center !important;\n  margin-bottom: 1.25em !important;\n}\n\n.mysuru-mob-courses-mascot-img img {\n  width: 9.5em !important;\n  max-width: 155px !important;\n  height: auto !important;\n  display: inline-block !important;\n}\n\n.mysuru-mob-card-widget {\n  width: 100% !important;\n  max-width: 310px !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n\n.mysuru-mob-course-card {\n  width: 100%;\n  background: #D48146;\n  background: linear-gradient(180deg, #D48146 0%, #C8743B 100%);\n  border-radius: 1.25em;\n  padding: 1.15em 1.2em 1.3em 1.2em;\n  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);\n  box-sizing: border-box;\n}\n\n.mysuru-mob-card-head {\n  display: flex;\n  align-items: center;\n  gap: 0.55em;\n  margin-bottom: 1.1em;\n}\n\n.mysuru-mob-card-icon-box {\n  background: #FFFFFF;\n  border-radius: 0.5em;\n  width: 3.4em;\n  height: 2.85em;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  flex-shrink: 0;\n  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);\n}\n\n.mysuru-mob-card-icon-box img {\n  width: 1.8em !important;\n  height: auto !important;\n  max-height: 2.0em !important;\n  object-fit: contain;\n}\n\n.mysuru-mob-card-code-box {\n  background: #F1D9C6;\n  border-radius: 0.5em;\n  flex: 1;\n  height: 2.85em;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);\n}\n\n.mysuru-mob-card-code-text {\n  font-family: Georgia, 'Playfair Display', serif;\n  font-size: 1.25em;\n  font-weight: 700;\n  color: #000000;\n  letter-spacing: 0.03em;\n}\n\n.mysuru-mob-card-body {\n  display: flex;\n  flex-direction: column;\n  gap: 0.55em;\n  padding-left: 0.35em;\n}\n\n.mysuru-mob-sub-item {\n  display: flex;\n  align-items: center;\n  gap: 0.65em;\n  color: #FFFFFF;\n  font-family: 'Inter', -apple-system, sans-serif;\n  font-size: 1.0em;\n  font-weight: 500;\n  line-height: 1.35;\n}\n\n.mysuru-mob-sub-arrow {\n  color: #FFFFFF;\n  font-size: 0.7em;\n  line-height: 1;\n  flex-shrink: 0;\n}\n\n.mysuru-mob-courses-btn .elementor-button {\n  border-color: #D48146 !important;\n  color: #D48146 !important;\n  border-radius: 2.0em !important;\n  padding: 0.65em 2.4em !important;\n  font-family: 'Nunito', 'Inter', sans-serif !important;\n  font-weight: 600 !important;\n}\n\n.mysuru-mob-courses-btn .elementor-button:hover {\n  background-color: #D48146 !important;\n  color: #FFFFFF !important;\n}\n.mysuru-course-card {\n  background-color: #D48146 !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-explore-section {\n  background-color: #F5DEC4 !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_explore_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-tour-section {\n  background-color: #F7EFE0 !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_tour_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n/* === FIGMA PARITY REFINEMENTS (DESKTOP) === */\n@media (min-width: 1025px) {\n  /* Header: 70px rounded hamburger bars */\n  .mysuru-menu-bar .elementor-divider-separator {\n    width: 4.375em !important;\n  }\n  /* Welcome: two-size heading + 18px body */\n  .mysuru-welcome-heading .elementor-heading-title {\n    font-size: 2.75em !important;\n    line-height: 1.3 !important;\n  }\n  .mysuru-welcome-heading .elementor-heading-title span:last-child {\n    font-size: 1.28em;\n  }\n  .mysuru-welcome-heading {\n    margin-bottom: 3.0em !important;\n  }\n  .mysuru-welcome-body.elementor-widget-text-editor,\n  .mysuru-explore-body.elementor-widget-text-editor,\n  .mysuru-events-subtitle.elementor-widget-text-editor {\n    font-size: 1.125em !important;\n    line-height: 1.25 !important;\n  }\n  .mysuru-welcome-body { max-width: 49.5em !important; }\n  .mysuru-explore-body { max-width: 58.8em !important; }\n  .mysuru-events-subtitle {\n    max-width: 61.4em !important;\n    text-align: left !important;\n  }\n  .mysuru-events-subtitle p { text-align: left !important; }\n  /* Admissions: Georgia year badge + compact centred enquiry row */\n  .mysuru-adm-orange-box { font-family: Georgia, serif !important; }\n  .mysuru-adm-enquiries-row { max-width: none !important; }\n  .mysuru-adm-enquiries-row > .elementor-container {\n    justify-content: center !important;\n    flex-wrap: nowrap !important;\n    gap: 1.5em;\n  }\n  .mysuru-adm-enquiries-row > .elementor-container > .elementor-column {\n    width: auto !important;\n    flex: 0 0 auto !important;\n  }\n  .mysuru-adm-enquiries-row h4.elementor-heading-title {\n    font-size: 1.75em !important;\n  }\n  .mysuru-adm-contact-text .elementor-heading-title {\n    font-size: 1.125em !important;\n  }\n  /* Course cards: vertically centred content, smaller code, 18px subjects */\n  .mysuru-course-card {\n    display: flex !important;\n    align-items: center !important;\n  }\n  .mysuru-course-card > .elementor-container { width: 100%; }\n  .mysuru-course-code-heading .elementor-heading-title { font-size: 1.6em !important; }\n  .mysuru-course-subject { font-size: 1.125em; }\n  .mysuru-tri { font-size: 0.7em; line-height: 1.75; }\n  .mysuru-line-dot { width: 0.25em; height: 0.25em; }\n  /* Bigger orange arrow circles (94px) */\n  .mysuru-arrow-btn img {\n    width: 6.9em !important;\n    height: 6.55em !important;\n  }\n  /* Events heading spacing */\n  .mysuru-events-section .elementor-widget-heading:first-child { margin-bottom: 1.6em !important; }\n  /* Footer parity */\n  .mysuru-footer-section { background-color: #252525 !important; }\n  .mysuru-footer-section .elementor-widget-text-editor { font-size: 1.125em !important; }\n  .mysuru-footer-section .elementor-widget-text-editor p { margin-bottom: 1.25em !important; }\n  .mysuru-footer-section .elementor-widget-text-editor p:last-child { margin-bottom: 0 !important; }\n  .mysuru-footer-main-cols .elementor-column:nth-child(2) .elementor-widget-text-editor { line-height: 1.667 !important; }\n  .mysuru-footer-main-cols h4.elementor-heading-title { font-size: 1.875em !important; }\n  .mysuru-footer-main-cols .elementor-widget-heading { margin-bottom: 1.6em !important; }\n  .mysuru-footer-top-icons p.elementor-heading-title { font-size: 1.125em !important; }\n  .mysuru-footer-top-icons .elementor-widget-image { margin-bottom: 1.7em !important; }\n  .mysuru-footer-section { padding-bottom: 7.5em !important; }\n  /* Pill buttons: 2px border + bold arrow */\n  .mysuru-btn-pill .elementor-button { border-width: 0.125em !important; }\n  .mysuru-btn-orange .elementor-button-text::after {\n    font-family: Arial, sans-serif;\n    font-weight: 700;\n    font-size: 1.45em;\n  }\n}\n\n/* === TABLET & MOBILE RESPONSIVE BREAKPOINTS (EM) === */\n@media (max-width: 1024px) {\n  .mysuru-welcome-section > .elementor-container,\n  .mysuru-tour-section > .elementor-container {\n    flex-wrap: wrap !important;\n  }\n  .mysuru-welcome-campus-img img {\n    height: auto !important;\n  }\n  .mysuru-course-card-seba {\n    width: 100% !important;\n    margin-top: 0 !important;\n  }\n  .mysuru-event-side-outer {\n    display: none !important;\n  }\n  .mysuru-social-dots {\n    flex-wrap: wrap;\n  }\n}\n\n@media (max-width: 767px) {\n  .elementor-section {\n    max-width: 100vw !important;\n    overflow-x: hidden !important;\n  }\n  .mysuru-logo-img img {\n    width: 11.5em !important;\n  }\n  .mysuru-play-btn-widget img {\n    width: 6.5em !important;\n    height: 6.5em !important;\n  }\n  .mysuru-course-card > .elementor-container {\n    flex-direction: column !important;\n    align-items: center !important;\n    text-align: center !important;\n  }\n  .mysuru-course-icon-box {\n    margin: 0 auto 0.5em auto !important;\n  }\n  .mysuru-course-dotted-line {\n    display: none !important;\n  }\n  .mysuru-course-code-wrap {\n    justify-content: center;\n  }\n  .mysuru-course-subjects-row {\n    grid-template-columns: repeat(2, 1fr);\n    gap: 0.65em 0.85em;\n    margin-top: 0.35em;\n  }\n  .mysuru-arrow-btn img {\n    width: 3.0em !important;\n    height: 2.85em !important;\n  }\n  .mysuru-event-side-inner {\n    display: none !important;\n  }\n  .mysuru-subscribe-form {\n    max-width: 100%;\n  }\n}\n\n/* Elementor Editor Safety: Ensure all widgets and buttons are 100% clickable & editable in Elementor Editor */\nbody.elementor-editor-active .mysuru-runtime-helper-widget {\n  height: 0 !important;\n  min-height: 0 !important;\n  margin: 0 !important;\n  padding: 0 !important;\n  overflow: hidden !important;\n  pointer-events: none !important;\n}\n\n</style>",
+                "css_classes": "mysuru-runtime-helper-widget",
+                "_css_classes": "mysuru-runtime-helper-widget"
               },
               "elements": []
             }
@@ -5572,5 +4882,9 @@
         }
       ]
     }
-  ]
+  ],
+  "pageSettings": {
+    "hide_title": "yes",
+    "custom_css": "/* === GLOBAL RESET & PROPORTIONAL DESKTOP SCALING (1920px = 120em -> 1em = 16px) === */\nhtml, body {\n  margin: 0 !important;\n  padding: 0 !important;\n  overflow-x: hidden !important;\n  max-width: 100% !important;\n  background: #FFFFFF;\n}\n.mysuru-results-carousel .swiper,\n.mysuru-results-carousel .swiper-wrapper,\n.mysuru-results-carousel .swiper-slide {\n  opacity: 1 !important;\n  visibility: visible !important;\n}\n.elementor {\n  font-size: 16px;\n}\n@media (min-width: 1025px) {\n  .elementor {\n    font-size: calc(100vw / 120) !important;\n  }\n}\n.elementor-widget:not(:last-child) {\n  margin-bottom: 0 !important;\n}\n.elementor-column-gap-default > .elementor-column > .elementor-element-populated,\n.elementor-column-gap-no > .elementor-column > .elementor-element-populated {\n  padding: 0;\n}\n\n/* === SECTION 1: HEADER BAR (1920x167px = 120em x 10.4375em) === */\n.mysuru-logo-img img {\n  width: 16.0625em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block;\n}\n.mysuru-header-menu-col {\n  cursor: pointer;\n}\n.mysuru-menu-bar .elementor-divider-separator {\n  border-radius: 0.35em !important;\n}\n\n/* === SECTION 2: HERO VIDEO BANNER (1920x531px = 120em x 33.1875em) === */\n.mysuru-play-btn-widget img {\n  width: 10.375em !important;\n  height: 10.375em !important;\n  cursor: pointer;\n  transition: transform 0.25s ease;\n}\n.mysuru-play-btn-widget img:hover {\n  transform: scale(1.06);\n}\n\n/* === ORANGE PILL BUTTONS (183x60px = 11.4375em x 3.75em, #E58D4D) === */\n.mysuru-btn-pill .elementor-button {\n  min-width: 11.4375em;\n  min-height: 3.75em;\n  display: inline-flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  padding: 0.75em 1.65em !important;\n  border-radius: 2.1875em !important;\n  transition: all 0.25s ease !important;\n  box-sizing: border-box !important;\n}\n.mysuru-btn-pill .elementor-button-content-wrapper {\n  display: inline-flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n}\n.mysuru-btn-pill .elementor-button-text {\n  display: inline-flex !important;\n  align-items: center !important;\n  gap: 0.9em;\n  line-height: 1 !important;\n}\n.mysuru-btn-orange .elementor-button-text::after {\n  content: '\\2192';\n  font-size: 1.25em;\n  line-height: 1;\n  font-weight: 600;\n  display: inline-block;\n  transform: translateY(-0.02em);\n}\n.mysuru-btn-orange .elementor-button:hover {\n  background-color: #E58D4D !important;\n  color: #FFFFFF !important;\n  border-color: #E58D4D !important;\n}\n\n/* === SECTION 3: WELCOME TO RV PU COLLEGE, MYSURU (1920x600px = 120em x 37.5em) === */\n.mysuru-welcome-section > .elementor-container {\n  display: flex !important;\n  align-items: stretch !important;\n}\n.mysuru-welcome-body {\n  max-width: 55.5625em;\n}\n.mysuru-welcome-campus-img img {\n  width: 100% !important;\n  height: 37.5em !important;\n  object-fit: cover !important;\n  display: block !important;\n}\n\n/* === SECTION 4A & 4B: ADMISSIONS OPEN 2026-2027 === */\n.mysuru-adm-orange-box {\n  background: #E58D4D;\n  color: #FFFFFF;\n  font-family: 'Inter', sans-serif;\n  font-weight: 700;\n  padding: 0.04em 0.36em;\n  display: inline-block;\n  margin-left: 0.25em;\n  line-height: 1.15;\n}\n.mysuru-adm-enquiries-row {\n  max-width: 66em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-adm-contact-col > .elementor-widget-wrap,\n.mysuru-adm-contact-col > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  flex-direction: row !important;\n  align-items: center !important;\n  justify-content: center !important;\n  flex-wrap: nowrap !important;\n  gap: 0.65em;\n}\n.mysuru-adm-icon-widget {\n  width: auto !important;\n  margin-bottom: 0 !important;\n}\n.mysuru-adm-icon-widget img {\n  width: 2.3125em !important;\n  height: 2.3125em !important;\n  object-fit: contain !important;\n  display: block !important;\n}\n.mysuru-adm-contact-text {\n  width: auto !important;\n  margin-bottom: 0 !important;\n}\n\n/* === SECTION 5: COURSES OFFERED (1920x841px = 120em x 52.5625em) === */\n.mysuru-courses-top-grid {\n  max-width: 101.6875em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-course-card {\n  min-height: 10.3125em;\n  box-shadow: 0 0.25em 0.65em rgba(0, 0, 0, 0.22);\n  box-sizing: border-box !important;\n}\n.mysuru-course-card > .elementor-container {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-course-icon-box {\n  width: 3.625em !important;\n  min-width: 3.625em !important;\n  max-width: 3.625em !important;\n  height: 3.25em !important;\n  border-radius: 0.3125em !important;\n  background: #FFFFFF !important;\n  display: flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  flex-shrink: 0 !important;\n}\n.mysuru-course-icon-box > .elementor-widget-wrap,\n.mysuru-course-icon-box > .elementor-column-wrap,\n.mysuru-course-icon-box > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  align-items: center !important;\n  justify-content: center !important;\n  width: 100% !important;\n  height: 100% !important;\n  padding: 0 !important;\n}\n.mysuru-course-icon-widget img {\n  width: 1.9em !important;\n  height: 2.0em !important;\n  object-fit: contain !important;\n  display: block !important;\n  margin: 0 auto !important;\n}\n.mysuru-course-code-wrap {\n  display: flex;\n  align-items: center;\n  width: 100%;\n  gap: 0.55em;\n}\n.mysuru-course-code-text {\n  flex-shrink: 0;\n}\n.mysuru-course-dotted-line {\n  flex: 1 1 auto;\n  display: flex;\n  align-items: center;\n  min-width: 3em;\n}\n.mysuru-line-dot {\n  width: 0.35em;\n  height: 0.35em;\n  border-radius: 50%;\n  background: #FFFFFF;\n  flex-shrink: 0;\n}\n.mysuru-line-bar {\n  flex: 1 1 auto;\n  height: 0.0625em;\n  background: rgba(255, 255, 255, 0.9);\n}\n.mysuru-course-subjects-row {\n  display: grid;\n  grid-template-columns: repeat(4, auto);\n  align-items: start;\n  justify-content: space-between;\n  gap: 0.5em;\n  width: 100%;\n}\n.mysuru-course-subject {\n  display: inline-flex;\n  align-items: flex-start;\n  gap: 0.35em;\n  color: #FFFFFF;\n  font-family: 'Inter', sans-serif;\n  font-size: 1.0em;\n  line-height: 1.22;\n  text-align: left;\n}\n.mysuru-tri {\n  font-size: 0.85em;\n  line-height: 1.3;\n  flex-shrink: 0;\n}\n.mysuru-courses-mascot-col {\n  position: relative;\n  z-index: 6;\n}\n.mysuru-courses-mascot-widget img {\n  width: 21.3125em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block !important;\n  margin: 0 auto !important;\n}\n.mysuru-course-card-seba {\n  width: 38.6875em !important;\n  max-width: 100% !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n  position: relative;\n  z-index: 4;\n}\n@media (min-width: 1025px) {\n  .mysuru-course-card-seba {\n    margin-top: -1.65em !important;\n  }\n}\n\n/* === SECTION 6: RESULTS (5-CARD STAGGERED CAROUSEL) === */\n.mysuru-results-slider-row > .elementor-container,\n.mysuru-events-slider-row > .elementor-container,\n.mysuru-tour-section > .elementor-container {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-results-carousel-col {\n  min-width: 0 !important;\n}\n.mysuru-slider-arrow-col,\n.mysuru-slider-arrow-col > .elementor-widget-wrap,\n.mysuru-slider-arrow-col > .elementor-column-wrap,\n.mysuru-slider-arrow-col > .elementor-column-wrap > .elementor-widget-wrap {\n  display: flex !important;\n  align-items: center !important;\n}\n.mysuru-arrow-btn img {\n  width: 5.875em !important;\n  height: 5.5625em !important;\n  max-width: none !important;\n  cursor: pointer;\n  transition: transform 0.2s ease;\n  display: block !important;\n}\n.mysuru-arrow-btn img:hover {\n  transform: scale(1.06);\n}\n.mysuru-results-carousel,\n.mysuru-results-carousel > .elementor-widget-container {\n  width: 100% !important;\n}\n.mysuru-results-carousel .swiper-wrapper {\n  align-items: flex-start !important;\n}\n.mysuru-results-carousel .swiper-slide {\n  transition: margin-top 520ms cubic-bezier(0.22, 1, 0.36, 1);\n}\n@media (min-width: 1025px) {\n  .mysuru-footer-copyright-right .elementor-heading-title {\n    white-space: nowrap;\n  }\n}\n.mysuru-results-carousel .swiper-slide img {\n  width: 100% !important;\n  max-width: 17.6875em !important;\n  height: auto !important;\n  margin: 0 auto !important;\n  display: block !important;\n}\n\n/* === SECTION 7: EXPLORE OUR VARIOUS CAMPUSES! (1920x600px = 120em x 37.5em) === */\n.mysuru-explore-section {\n  min-height: 37.5em;\n  overflow: hidden;\n}\n.mysuru-explore-body {\n  max-width: 67.3em;\n}\n.mysuru-explore-students-img img {\n  width: 44.75em !important;\n  max-width: 100% !important;\n  height: auto !important;\n  display: block !important;\n  margin-left: auto !important;\n}\n\n/* === SECTION 8: EVENTS (5-PANEL SHOWCASE + DOTS) === */\n.mysuru-events-subtitle {\n  max-width: 69.5em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-events-slider-row > .elementor-container {\n  align-items: flex-start !important;\n}\n.mysuru-events-slider-row .mysuru-slider-arrow-col {\n  align-self: center !important;\n}\n.mysuru-event-panel-img img {\n  width: 100% !important;\n  height: auto !important;\n  display: block !important;\n  transition: opacity 0.35s ease, transform 0.35s ease;\n}\n.mysuru-events-dots {\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  gap: 0.65em;\n}\n.mysuru-event-dot {\n  width: 1.15em;\n  height: 1.15em;\n  border-radius: 50%;\n  border: 0.0625em solid #252525;\n  background: transparent;\n  cursor: pointer;\n  display: inline-block;\n  transition: background-color 0.2s ease, border-color 0.2s ease;\n}\n.mysuru-event-dot.active {\n  background: #8E8E8E;\n  border-color: #8E8E8E;\n}\n\n/* === SECTION 10: FOOTER (1920x746px = 120em x 46.625em) === */\n.mysuru-footer-top-icons {\n  max-width: 58em !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n.mysuru-footer-icon-phone img {\n  width: 5.3125em !important;\n  height: 5.3125em !important;\n  object-fit: contain !important;\n}\n.mysuru-footer-icon-std img {\n  width: 4.5em !important;\n  height: 4.5em !important;\n  object-fit: contain !important;\n}\n.mysuru-subscribe-form {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  background: #6F6F6F;\n  border-radius: 1.9375em;\n  height: 3.875em;\n  padding: 0 1.4em;\n  width: 100%;\n  max-width: 24.25em;\n  box-sizing: border-box;\n}\n.mysuru-subscribe-input {\n  background: transparent !important;\n  border: none !important;\n  outline: none !important;\n  color: #FFFFFF !important;\n  font-family: 'Inter', sans-serif;\n  font-size: 1.15em;\n  width: 100%;\n}\n.mysuru-subscribe-input::placeholder {\n  color: #FFFFFF;\n  opacity: 0.95;\n}\n.mysuru-subscribe-submit {\n  background: transparent !important;\n  border: none !important;\n  color: #FFFFFF !important;\n  font-size: 1.15em;\n  cursor: pointer;\n  padding: 0.25em 0 0.25em 0.75em;\n}\n.mysuru-social-dots {\n  display: flex;\n  align-items: center;\n  gap: 0.4375em;\n  flex-wrap: nowrap;\n}\n.mysuru-social-circle {\n  width: 3.125em;\n  height: 3.125em;\n  border-radius: 50%;\n  background: #FFFFFF;\n  display: inline-block;\n  flex-shrink: 0;\n  transition: transform 0.2s ease, background-color 0.2s ease;\n}\n.mysuru-social-circle:hover {\n  transform: translateY(-0.2em);\n  background: #E58D4D;\n}\n\n/* === BULLETPROOF BACKGROUND IMAGE FALLBACKS (FOR CROSS-SITE ELEMENTOR JSON IMPORT) === */\n.mysuru-welcome-left-col:not(.elementor-motion-effects-element-type-background),\n.mysuru-welcome-left-col > .elementor-element-populated,\n.mysuru-welcome-left-col > .elementor-widget-wrap {\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_welcome_left_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-admissions-section {\n  background-color: #323130 !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_admissions_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-courses-section {\n  background-color: #F6ECDC !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n/* === COURSES OFFERED: DESKTOP & MOBILE RESPONSIVE SWITCHING === */\n@media (min-width: 1025px) {\n  .mysuru-courses-desktop-section {\n    display: block !important;\n  }\n  .mysuru-courses-mobile-section {\n    display: none !important;\n  }\n}\n\n@media (max-width: 1024px) {\n  .mysuru-courses-desktop-section {\n    display: none !important;\n  }\n  .mysuru-courses-mobile-section {\n    display: block !important;\n  }\n}\n\n/* === DEDICATED MOBILE COURSES SECTION (Pixel-Accurate to reference media_1793170580302_5dffaa10.png) === */\n.mysuru-courses-mobile-section {\n  background-color: #F6ECDC !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_courses_bg.png\") !important;\n  background-position: left center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n.mysuru-courses-mobile-inner-col {\n  width: 100% !important;\n  max-width: 380px !important;\n  margin: 0 auto !important;\n  display: flex !important;\n  flex-direction: column !important;\n  align-items: center !important;\n}\n\n.mysuru-mob-courses-heading .elementor-heading-title {\n  font-family: Georgia, 'Playfair Display', serif !important;\n  font-size: 1.85em !important;\n  font-weight: 700 !important;\n  color: #000000 !important;\n  text-align: center !important;\n  letter-spacing: 0.02em !important;\n}\n\n.mysuru-mob-courses-mascot-img {\n  text-align: center !important;\n  margin-bottom: 1.25em !important;\n}\n\n.mysuru-mob-courses-mascot-img img {\n  width: 9.5em !important;\n  max-width: 155px !important;\n  height: auto !important;\n  display: inline-block !important;\n}\n\n.mysuru-mob-card-widget {\n  width: 100% !important;\n  max-width: 310px !important;\n  margin-left: auto !important;\n  margin-right: auto !important;\n}\n\n.mysuru-mob-course-card {\n  width: 100%;\n  background: #D48146;\n  background: linear-gradient(180deg, #D48146 0%, #C8743B 100%);\n  border-radius: 1.25em;\n  padding: 1.15em 1.2em 1.3em 1.2em;\n  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);\n  box-sizing: border-box;\n}\n\n.mysuru-mob-card-head {\n  display: flex;\n  align-items: center;\n  gap: 0.55em;\n  margin-bottom: 1.1em;\n}\n\n.mysuru-mob-card-icon-box {\n  background: #FFFFFF;\n  border-radius: 0.5em;\n  width: 3.4em;\n  height: 2.85em;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  flex-shrink: 0;\n  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);\n}\n\n.mysuru-mob-card-icon-box img {\n  width: 1.8em !important;\n  height: auto !important;\n  max-height: 2.0em !important;\n  object-fit: contain;\n}\n\n.mysuru-mob-card-code-box {\n  background: #F1D9C6;\n  border-radius: 0.5em;\n  flex: 1;\n  height: 2.85em;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);\n}\n\n.mysuru-mob-card-code-text {\n  font-family: Georgia, 'Playfair Display', serif;\n  font-size: 1.25em;\n  font-weight: 700;\n  color: #000000;\n  letter-spacing: 0.03em;\n}\n\n.mysuru-mob-card-body {\n  display: flex;\n  flex-direction: column;\n  gap: 0.55em;\n  padding-left: 0.35em;\n}\n\n.mysuru-mob-sub-item {\n  display: flex;\n  align-items: center;\n  gap: 0.65em;\n  color: #FFFFFF;\n  font-family: 'Inter', -apple-system, sans-serif;\n  font-size: 1.0em;\n  font-weight: 500;\n  line-height: 1.35;\n}\n\n.mysuru-mob-sub-arrow {\n  color: #FFFFFF;\n  font-size: 0.7em;\n  line-height: 1;\n  flex-shrink: 0;\n}\n\n.mysuru-mob-courses-btn .elementor-button {\n  border-color: #D48146 !important;\n  color: #D48146 !important;\n  border-radius: 2.0em !important;\n  padding: 0.65em 2.4em !important;\n  font-family: 'Nunito', 'Inter', sans-serif !important;\n  font-weight: 600 !important;\n}\n\n.mysuru-mob-courses-btn .elementor-button:hover {\n  background-color: #D48146 !important;\n  color: #FFFFFF !important;\n}\n.mysuru-course-card {\n  background-color: #D48146 !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_course_card_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-explore-section {\n  background-color: #F5DEC4 !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_explore_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n.mysuru-tour-section {\n  background-color: #F7EFE0 !important;\n  background-image: url(\"http://rvcollegeofengineering.in/test/wp-content/uploads/2026/10/mysuru_tour_bg.png\") !important;\n  background-position: center center !important;\n  background-repeat: no-repeat !important;\n  background-size: cover !important;\n}\n\n/* === FIGMA PARITY REFINEMENTS (DESKTOP) === */\n@media (min-width: 1025px) {\n  /* Header: 70px rounded hamburger bars */\n  .mysuru-menu-bar .elementor-divider-separator {\n    width: 4.375em !important;\n  }\n  /* Welcome: two-size heading + 18px body */\n  .mysuru-welcome-heading .elementor-heading-title {\n    font-size: 2.75em !important;\n    line-height: 1.3 !important;\n  }\n  .mysuru-welcome-heading .elementor-heading-title span:last-child {\n    font-size: 1.28em;\n  }\n  .mysuru-welcome-heading {\n    margin-bottom: 3.0em !important;\n  }\n  .mysuru-welcome-body.elementor-widget-text-editor,\n  .mysuru-explore-body.elementor-widget-text-editor,\n  .mysuru-events-subtitle.elementor-widget-text-editor {\n    font-size: 1.125em !important;\n    line-height: 1.25 !important;\n  }\n  .mysuru-welcome-body { max-width: 49.5em !important; }\n  .mysuru-explore-body { max-width: 58.8em !important; }\n  .mysuru-events-subtitle {\n    max-width: 61.4em !important;\n    text-align: left !important;\n  }\n  .mysuru-events-subtitle p { text-align: left !important; }\n  /* Admissions: Georgia year badge + compact centred enquiry row */\n  .mysuru-adm-orange-box { font-family: Georgia, serif !important; }\n  .mysuru-adm-enquiries-row { max-width: none !important; }\n  .mysuru-adm-enquiries-row > .elementor-container {\n    justify-content: center !important;\n    flex-wrap: nowrap !important;\n    gap: 1.5em;\n  }\n  .mysuru-adm-enquiries-row > .elementor-container > .elementor-column {\n    width: auto !important;\n    flex: 0 0 auto !important;\n  }\n  .mysuru-adm-enquiries-row h4.elementor-heading-title {\n    font-size: 1.75em !important;\n  }\n  .mysuru-adm-contact-text .elementor-heading-title {\n    font-size: 1.125em !important;\n  }\n  /* Course cards: vertically centred content, smaller code, 18px subjects */\n  .mysuru-course-card {\n    display: flex !important;\n    align-items: center !important;\n  }\n  .mysuru-course-card > .elementor-container { width: 100%; }\n  .mysuru-course-code-heading .elementor-heading-title { font-size: 1.6em !important; }\n  .mysuru-course-subject { font-size: 1.125em; }\n  .mysuru-tri { font-size: 0.7em; line-height: 1.75; }\n  .mysuru-line-dot { width: 0.25em; height: 0.25em; }\n  /* Bigger orange arrow circles (94px) */\n  .mysuru-arrow-btn img {\n    width: 6.9em !important;\n    height: 6.55em !important;\n  }\n  /* Events heading spacing */\n  .mysuru-events-section .elementor-widget-heading:first-child { margin-bottom: 1.6em !important; }\n  /* Footer parity */\n  .mysuru-footer-section { background-color: #252525 !important; }\n  .mysuru-footer-section .elementor-widget-text-editor { font-size: 1.125em !important; }\n  .mysuru-footer-section .elementor-widget-text-editor p { margin-bottom: 1.25em !important; }\n  .mysuru-footer-section .elementor-widget-text-editor p:last-child { margin-bottom: 0 !important; }\n  .mysuru-footer-main-cols .elementor-column:nth-child(2) .elementor-widget-text-editor { line-height: 1.667 !important; }\n  .mysuru-footer-main-cols h4.elementor-heading-title { font-size: 1.875em !important; }\n  .mysuru-footer-main-cols .elementor-widget-heading { margin-bottom: 1.6em !important; }\n  .mysuru-footer-top-icons p.elementor-heading-title { font-size: 1.125em !important; }\n  .mysuru-footer-top-icons .elementor-widget-image { margin-bottom: 1.7em !important; }\n  .mysuru-footer-section { padding-bottom: 7.5em !important; }\n  /* Pill buttons: 2px border + bold arrow */\n  .mysuru-btn-pill .elementor-button { border-width: 0.125em !important; }\n  .mysuru-btn-orange .elementor-button-text::after {\n    font-family: Arial, sans-serif;\n    font-weight: 700;\n    font-size: 1.45em;\n  }\n}\n\n/* === TABLET & MOBILE RESPONSIVE BREAKPOINTS (EM) === */\n@media (max-width: 1024px) {\n  .mysuru-welcome-section > .elementor-container,\n  .mysuru-tour-section > .elementor-container {\n    flex-wrap: wrap !important;\n  }\n  .mysuru-welcome-campus-img img {\n    height: auto !important;\n  }\n  .mysuru-course-card-seba {\n    width: 100% !important;\n    margin-top: 0 !important;\n  }\n  .mysuru-event-side-outer {\n    display: none !important;\n  }\n  .mysuru-social-dots {\n    flex-wrap: wrap;\n  }\n}\n\n@media (max-width: 767px) {\n  .elementor-section {\n    max-width: 100vw !important;\n    overflow-x: hidden !important;\n  }\n  .mysuru-logo-img img {\n    width: 11.5em !important;\n  }\n  .mysuru-play-btn-widget img {\n    width: 6.5em !important;\n    height: 6.5em !important;\n  }\n  .mysuru-course-card > .elementor-container {\n    flex-direction: column !important;\n    align-items: center !important;\n    text-align: center !important;\n  }\n  .mysuru-course-icon-box {\n    margin: 0 auto 0.5em auto !important;\n  }\n  .mysuru-course-dotted-line {\n    display: none !important;\n  }\n  .mysuru-course-code-wrap {\n    justify-content: center;\n  }\n  .mysuru-course-subjects-row {\n    grid-template-columns: repeat(2, 1fr);\n    gap: 0.65em 0.85em;\n    margin-top: 0.35em;\n  }\n  .mysuru-arrow-btn img {\n    width: 3.0em !important;\n    height: 2.85em !important;\n  }\n  .mysuru-event-side-inner {\n    display: none !important;\n  }\n  .mysuru-subscribe-form {\n    max-width: 100%;\n  }\n}\n\n/* Elementor Editor Safety: Ensure all widgets and buttons are 100% clickable & editable in Elementor Editor */\nbody.elementor-editor-active .mysuru-runtime-helper-widget {\n  height: 0 !important;\n  min-height: 0 !important;\n  margin: 0 !important;\n  padding: 0 !important;\n  overflow: hidden !important;\n  pointer-events: none !important;\n}"
+  }
 }
